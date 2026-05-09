@@ -43,7 +43,7 @@ python src/evaluate.py
 cat evaluations.md
 ```
 
-Each leaderboard reproduces the corresponding paper table (Table A1 for property generation, Table A2 for ratings) within bootstrap noise.
+Each leaderboard reproduces the corresponding paper table within bootstrap noise.
 
 ## Layout
 
