@@ -1,0 +1,13 @@
+# Core dependencies (used by generate.py / code.py / evaluate.py)
+openai>=1.30
+python-dotenv>=1.0
+pandas>=2.0
+numpy>=1.24
+scipy>=1.11
+tqdm>=4.66
+
+# Optional: only needed if you pass --client local (run open-weight models on CUDA).
+# Uncomment the three lines below if you want the local backend.
+# torch>=2.2
+# transformers>=4.45
+# accelerate>=0.30
