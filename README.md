@@ -8,7 +8,7 @@ Directories:
 | Directory | What it reproduces |
 | :--- | :--- |
 | [`property_generation_experiments/`](property_generation_experiments/) | Experiments 1 and 2: free property generation (Harpaintner et al. 2018; Kelly et al. 2024). 21 paper models x 10 runs preloaded for Exp 1; 5 sample models x 10 runs for Exp 2. |
-| [`rating_experiment/`](rating_experiment/) | Experiment 3: 14-dimension Likert rating (Troche et al. 2017). 21 paper models x 10 seeds preloaded. |
+| [`rating_experiment/`](rating_experiment/) | Rating Experiment: 14-dimension Likert rating (Troche et al. 2017). 21 paper models x 10 seeds preloaded. |
 | [`mechanistic_analysis/`](mechanistic_analysis/) | SAE feature analysis and steering artifacts referenced in Section 5 of the paper. |
 
 ## Installation
