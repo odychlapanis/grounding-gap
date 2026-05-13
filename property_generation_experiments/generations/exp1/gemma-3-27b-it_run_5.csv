@@ -1,0 +1,531 @@
+word,response,properties
+ability,"ability:
+properties: learning, piano, independence, challenge","['learning', 'piano', 'independence', 'challenge']"
+achievement,"achievement:
+properties: trophy, effort, pride, impact","['trophy', 'effort', 'pride', 'impact']"
+activity,"activity: hiking
+properties: planning, energy, outdoors, challenge","['planning', 'energy', 'outdoors', 'challenge']"
+addiction,"addiction:
+properties: relapse, isolation, craving, desperation","['relapse', 'isolation', 'craving', 'desperation']"
+admiration,"admiration:
+properties: sculpture, mentor, bravery, stillness","['sculpture', 'mentor', 'bravery', 'stillness']"
+advantage,"advantage:
+properties: strategy, height, preparation, opportunity","['strategy', 'height', 'preparation', 'opportunity']"
+adventure,"adventure:
+properties: map, risk, discovery, wilderness","['map', 'risk', 'discovery', 'wilderness']"
+advice,"advice:
+properties: mentor, crossroads, caution, growth","['mentor', 'crossroads', 'caution', 'growth']"
+agreement,"agreement:
+properties: contract, compromise, handshake, trust","['contract', 'compromise', 'handshake', 'trust']"
+amazement,"amazement:
+properties: stars, discovery, silence, child","['stars', 'discovery', 'silence', 'child']"
+ambition,"ambition:
+properties: staircase, blueprint, discomfort, legacy","['staircase', 'blueprint', 'discomfort', 'legacy']"
+ambush,"ambush:
+properties: jungle, surprise, fear, planning","['jungle', 'surprise', 'fear', 'planning']"
+amusement,"amusement:
+properties: laughter, carnival, surprise, bubbles","['laughter', 'carnival', 'surprise', 'bubbles']"
+anxiety,"anxiety:
+properties: racing, shadows, knots, silence","['racing', 'shadows', 'knots', 'silence']"
+apology,"apology: regret
+properties: forgiveness, amends, vulnerability, silence","['forgiveness', 'amends', 'vulnerability', 'silence']"
+appearance,"appearance:
+properties: costume, stage, reflection, scrutiny","['costume', 'stage', 'reflection', 'scrutiny']"
+appetite,"appetite:
+properties: cooking, hunger, sharing, aroma","['cooking', 'hunger', 'sharing', 'aroma']"
+application,"application:
+properties: software, resume, process, deadline","['software', 'resume', 'process', 'deadline']"
+aptitude,"aptitude
+properties: learning, puzzles, potential, strategy","['learning', 'puzzles', 'potential', 'strategy']"
+argument,"argument:
+properties: debate, frustration, compromise, evidence","['debate', 'frustration', 'compromise', 'evidence']"
+art,"art: creation
+properties: museum, texture, expression, canvas","['museum', 'texture', 'expression', 'canvas']"
+aspect,"aspect:
+properties: viewpoint, geometry, stage, consideration","['viewpoint', 'geometry', 'stage', 'consideration']"
+assumption,"assumption:
+properties: risk, shortcut, belief, silence","['risk', 'shortcut', 'belief', 'silence']"
+astonishment,"astonishment:
+properties: silence, statues, wide eyes, discovery","['silence', 'statues', 'wide eyes', 'discovery']"
+attack,"attack:
+properties: defense, surprise, fear, strategy","['defense', 'surprise', 'fear', 'strategy']"
+attraction,"attraction:
+properties: magnet, tourism, chemistry, gaze","['magnet', 'tourism', 'chemistry', 'gaze']"
+being,"being:
+properties: growth, choice, breath, shadow","['growth', 'choice', 'breath', 'shadow']"
+bravery,"bravery:
+properties: lighthouse, silence, scars, mountains","['lighthouse', 'silence', 'scars', 'mountains']"
+career,"career: ambition
+properties: network, mentor, skills, balance","['network', 'mentor', 'skills', 'balance']"
+carefulness,"carefulness:
+properties: bridge, surgery, library, seedlings","['bridge', 'surgery', 'library', 'seedlings']"
+challenge,"challenge:
+properties: mountain, puzzle, growth, pressure","['mountain', 'puzzle', 'growth', 'pressure']"
+chaos,"chaos:
+properties: broken glass, emergency room, static, lost keys","['broken glass', 'emergency room', 'static', 'lost keys']"
+character,"character:
+properties: flaws, growth, choices, morality","['flaws', 'growth', 'choices', 'morality']"
+charm,"charm:
+properties: bracelet, snake, persuasion, vintage","['bracelet', 'snake', 'persuasion', 'vintage']"
+comfort,"comfort: blanket
+properties: warmth, silence, tea, safety","['warmth', 'silence', 'tea', 'safety']"
+commitment,"commitment:
+properties: contract, responsibility, future, sacrifice","['contract', 'responsibility', 'future', 'sacrifice']"
+compassion,"compassion:
+properties: volunteer, shelter, listening, forgiveness","['volunteer', 'shelter', 'listening', 'forgiveness']"
+competence,"competence:
+properties: surgery, pilot, teaching, repair","['surgery', 'pilot', 'teaching', 'repair']"
+compromise,"compromise:
+properties: negotiation, fairness, flexibility, bridge","['negotiation', 'fairness', 'flexibility', 'bridge']"
+compulsion,"compulsion:
+properties: ritual, anxiety, control, routine","['ritual', 'anxiety', 'control', 'routine']"
+confession,"confession: guilt
+properties: priest, secret, relief, vulnerability","['priest', 'secret', 'relief', 'vulnerability']"
+conflict,"conflict: disagreement
+properties: tension, strategy, compromise, fallout","['tension', 'strategy', 'compromise', 'fallout']"
+consideration,"consideration:
+properties: debate, ethics, planning, patience","['debate', 'ethics', 'planning', 'patience']"
+consolation,"consolation:
+properties: blanket, silence, rain, stories","['blanket', 'silence', 'rain', 'stories']"
+contempt,"contempt
+properties: distance, sneer, power, dismissal","['distance', 'sneer', 'power', 'dismissal']"
+convention,"convention:
+properties: badges, speakers, networking, schedule","['badges', 'speakers', 'networking', 'schedule']"
+cooperation,"cooperation:
+properties: bridge, puzzle, orchestra, harvest","['bridge', 'puzzle', 'orchestra', 'harvest']"
+courage,"courage:
+properties: mountains, silence, vulnerability, choice","['mountains', 'silence', 'vulnerability', 'choice']"
+creativity,"creativity:
+properties: collage, puzzles, daydream, invention","['collage', 'puzzles', 'daydream', 'invention']"
+criticism,"criticism:
+properties: growth, defensiveness, editing, vulnerability","['growth', 'defensiveness', 'editing', 'vulnerability']"
+cruelty,"cruelty:
+properties: silence, shadows, power, isolation","['silence', 'shadows', 'power', 'isolation']"
+curiosity,"curiosity:
+properties: telescope, kitten, locked room, question mark","['telescope', 'kitten', 'locked room', 'question mark']"
+custom,"custom:
+properties: tailor, tradition, habit, order","['tailor', 'tradition', 'habit', 'order']"
+danger,"danger:
+properties: cliffs, silence, red, shadows","['cliffs', 'silence', 'red', 'shadows']"
+death,"death: silence
+properties: clocks, shadows, earth, feathers","['clocks', 'shadows', 'earth', 'feathers']"
+decision,"decision:
+properties: crossroads, risk, future, anxiety","['crossroads', 'risk', 'future', 'anxiety']"
+demand,"demand:
+properties: pressure, negotiation, scarcity, entitlement","['pressure', 'negotiation', 'scarcity', 'entitlement']"
+desire,"desire:
+properties: journey, stars, warmth, growth","['journey', 'stars', 'warmth', 'growth']"
+desperation,"desperation:
+properties: silence, shadows, gamble, cracked earth","['silence', 'shadows', 'gamble', 'cracked earth']"
+detection,"detection:
+properties: radar, clues, security, anomaly","['radar', 'clues', 'security', 'anomaly']"
+dictatorship,"dictatorship:
+properties: censorship, fear, propaganda, inequality","['censorship', 'fear', 'propaganda', 'inequality']"
+difficulty,"difficulty:
+properties: puzzle, mountain, learning, frustration","['puzzle', 'mountain', 'learning', 'frustration']"
+dignity,"dignity:
+properties: silence, posture, respect, hardship","['silence', 'posture', 'respect', 'hardship']"
+disadvantage,"disadvantage:
+properties: handicap, uphill, bias, vulnerability","['handicap', 'uphill', 'bias', 'vulnerability']"
+discovery,"discovery:
+properties: map, telescope, curiosity, accident 
+
+
+
+","['map', 'telescope', 'curiosity', 'accident']"
+disgust,"disgust:
+properties: mold, betrayal, stench, recoil","['mold', 'betrayal', 'stench', 'recoil']"
+dismay,"dismay:
+properties: silence, dropped plate, wilting flowers, grey sky","['silence', 'dropped plate', 'wilting flowers', 'grey sky']"
+dispute,"dispute:
+properties: lawyer, frustration, negotiation, compromise","['lawyer', 'frustration', 'negotiation', 'compromise']"
+distance,"distance:
+properties: telescope, migration, loneliness, patience","['telescope', 'migration', 'loneliness', 'patience']"
+distraction,"distraction:
+properties: fidget spinner, deadlines, bright lights, wandering thoughts","['fidget spinner', 'deadlines', 'bright lights', 'wandering thoughts']"
+diversity,"diversity:
+properties: mosaic, ecosystems, perspectives, inclusion","['mosaic', 'ecosystems', 'perspectives', 'inclusion']"
+doubt,"doubt: uncertainty
+properties: investigation, hesitation, questioning, shadows","['investigation', 'hesitation', 'questioning', 'shadows']"
+downfall,"downfall:
+properties: ambition, regret, gravity, cracks","['ambition', 'regret', 'gravity', 'cracks']"
+dream,"dream:
+properties: flight, subconscious, hope, surrealism","['flight', 'subconscious', 'hope', 'surrealism']"
+duty,"duty: responsibility
+properties: sacrifice, uniform, consequence, commitment","['sacrifice', 'uniform', 'consequence', 'commitment']"
+eagerness,"eagerness:
+properties: puppy, starting, gift, climb","['puppy', 'starting', 'gift', 'climb']"
+elegance,"elegance:
+properties: ballet, silk, posture, restraint","['ballet', 'silk', 'posture', 'restraint']"
+emotion,"emotion: grief
+properties: silence, rain, memories, fatigue","['silence', 'rain', 'memories', 'fatigue']"
+enchantment,"enchantment:
+properties: forest, music, illusion, stillness","['forest', 'music', 'illusion', 'stillness']"
+enthusiasm,"enthusiasm:
+properties: jumping, projects, bright colors, discovery","['jumping', 'projects', 'bright colors', 'discovery']"
+envy,"envy:
+properties: green, comparison, lack, bitterness","['green', 'comparison', 'lack', 'bitterness']"
+error,"word: error
+properties: debugging, frustration, red text, miscalculation","['debugging', 'frustration', 'red text', 'miscalculation']"
+event,"event:
+properties: schedule, ticket, memory, chaos","['schedule', 'ticket', 'memory', 'chaos']"
+excitement,"excitement:
+properties: rollercoaster, surprise, anticipation, confetti","['rollercoaster', 'surprise', 'anticipation', 'confetti']"
+expectation,"expectation:
+properties: disappointment, planning, pressure, anticipation","['disappointment', 'planning', 'pressure', 'anticipation']"
+experience,"experience: learning
+properties: travel, challenge, memory, growth","['travel', 'challenge', 'memory', 'growth']"
+explanation,"explanation:
+properties: textbook, confusion, teacher, details","['textbook', 'confusion', 'teacher', 'details']"
+exploitation,"exploitation:
+properties: power, resources, imbalance, vulnerability","['power', 'resources', 'imbalance', 'vulnerability']"
+faithfulness,"faithfulness
+properties: loyalty, promise, consistency, trust","['loyalty', 'promise', 'consistency', 'trust']"
+fantasy,"fantasy:
+properties: dragons, illusion, escapism, wonder","['dragons', 'illusion', 'escapism', 'wonder']"
+fate,"fate: destiny
+properties: crossroads, prophecy, acceptance, storms","['crossroads', 'prophecy', 'acceptance', 'storms']"
+fight,"fight:
+properties: strategy, adrenaline, injustice, desperation","['strategy', 'adrenaline', 'injustice', 'desperation']"
+fitness,"fitness:
+properties: endurance, recovery, discipline, outdoors","['endurance', 'recovery', 'discipline', 'outdoors']"
+flexibility,"flexibility:
+properties: yoga, rubber, improvisation, branches","['yoga', 'rubber', 'improvisation', 'branches']"
+force,"force:
+properties: magnet, river, impact, pressure","['magnet', 'river', 'impact', 'pressure']"
+fright,"fright:
+properties: darkness, heartbeat, stillness, shadows","['darkness', 'heartbeat', 'stillness', 'shadows']"
+frustration,"frustration:
+properties: clenched fists, deadlines, tangled cords, silence","['clenched fists', 'deadlines', 'tangled cords', 'silence']"
+fury,"fury:
+properties: storm, clenched fists, red, injustice","['storm', 'clenched fists', 'red', 'injustice']"
+future,"future:
+properties: robots, travel, uncertainty, growth","['robots', 'travel', 'uncertainty', 'growth']"
+glory,"glory:
+properties: victory, cathedral, sunset, legend","['victory', 'cathedral', 'sunset', 'legend']"
+grace,"grace:
+properties: ballet, cathedral, forgiveness, composure","['ballet', 'cathedral', 'forgiveness', 'composure']"
+gratitude,"gratitude:
+properties: journal, rain, kindness, remembering","['journal', 'rain', 'kindness', 'remembering']"
+greed,"greed:
+properties: hoarding, isolation, power, emptiness","['hoarding', 'isolation', 'power', 'emptiness']"
+guess,"guess:
+properties: detective, lottery, riddle, uncertainty","['detective', 'lottery', 'riddle', 'uncertainty']"
+habit,"habit: routine
+properties: comfort, automatic, difficult, trigger","['comfort', 'automatic', 'difficult', 'trigger']"
+happiness,"happiness: laughter
+properties: warmth, gardens, puppies, freedom","['warmth', 'gardens', 'puppies', 'freedom']"
+help,"help: assistance
+properties: toolbox, bridge, instruction, rescue 
+
+
+
+","['toolbox', 'bridge', 'instruction', 'rescue']"
+hint,"hint:
+properties: puzzle, secret, nudge, detective","['puzzle', 'secret', 'nudge', 'detective']"
+home,"home:
+properties: fireplace, garden, memories, safety","['fireplace', 'garden', 'memories', 'safety']"
+humor,"humor:
+properties: timing, surprise, awkwardness, relief","['timing', 'surprise', 'awkwardness', 'relief']"
+hurry,"hurry:
+properties: traffic, deadlines, coffee, backpack","['traffic', 'deadlines', 'coffee', 'backpack']"
+idea,"idea:
+properties: lightbulb, notebook, future, debate","['lightbulb', 'notebook', 'future', 'debate']"
+ideal,"ideal:
+properties: blueprint, aspiration, utopia, clarity","['blueprint', 'aspiration', 'utopia', 'clarity']"
+impression,"impression:
+properties: clay, fingerprint, echo, stage","['clay', 'fingerprint', 'echo', 'stage']"
+incentive,"incentive:
+properties: progress, reward, motivation, challenge","['progress', 'reward', 'motivation', 'challenge']"
+independence,"independence:
+properties: travel, choices, solitude, resilience","['travel', 'choices', 'solitude', 'resilience']"
+indifference,"indifference:
+properties: statue, grey, silence, distance","['statue', 'grey', 'silence', 'distance']"
+influence,"influence: power
+properties: ripple, mentor, persuasion, momentum","['ripple', 'mentor', 'persuasion', 'momentum']"
+insanity,"insanity:
+properties: spirals, echoes, cages, static","['spirals', 'echoes', 'cages', 'static']"
+insight,"insight:
+properties: puzzle, telescope, detective, dawn","['puzzle', 'telescope', 'detective', 'dawn']"
+insult,"insult:
+properties: silence, anger, insecurity, dismissal","['silence', 'anger', 'insecurity', 'dismissal']"
+intention,"intention:
+properties: planning, motive, consequence, focus","['planning', 'motive', 'consequence', 'focus']"
+interest,"interest: curiosity
+properties: learning, investment, hobbies, questions","['learning', 'investment', 'hobbies', 'questions']"
+invention,"invention:
+properties: prototype, patent, curiosity, disruption","['prototype', 'patent', 'curiosity', 'disruption']"
+joy,"joy:
+properties: bubbles, dancing, surprise, garden","['bubbles', 'dancing', 'surprise', 'garden']"
+judgement,"judgement:
+properties: scales, courtroom, hesitation, consequences","['scales', 'courtroom', 'hesitation', 'consequences']"
+justification,"justification:
+properties: courtroom, apology, explanation, balance","['courtroom', 'apology', 'explanation', 'balance']"
+kindness,"kindness: patience
+properties: shelter, volunteering, listening, growth","['shelter', 'volunteering', 'listening', 'growth']"
+love,"love: devotion
+properties: sacrifice, warmth, growth, trust","['sacrifice', 'warmth', 'growth', 'trust']"
+lust,"word: lust
+properties: heat, forbidden, obsession, vulnerability","['heat', 'forbidden', 'obsession', 'vulnerability']"
+luxury,"luxury:
+properties: yacht, velvet, silence, bespoke","['yacht', 'velvet', 'silence', 'bespoke']"
+manipulation,"word: manipulation
+properties: puppets, control, deceit, leverage","['puppets', 'control', 'deceit', 'leverage']"
+manners,"manners:
+properties: restaurant, please, respect, grandmother","['restaurant', 'please', 'respect', 'grandmother']"
+matter,"matter:
+properties: density, atoms, dark, weight","['density', 'atoms', 'dark', 'weight']"
+meanness,"meanness:
+properties: silence, shadows, thorns, isolation","['silence', 'shadows', 'thorns', 'isolation']"
+mercy,"mercy:
+properties: rain, forgiveness, vulnerability, quiet","['rain', 'forgiveness', 'vulnerability', 'quiet']"
+miracle,"miracle:
+properties: healing, disbelief, hope, chance","['healing', 'disbelief', 'hope', 'chance']"
+mockery,"mockery:
+properties: laughter, power, vulnerability, puppets","['laughter', 'power', 'vulnerability', 'puppets']"
+model,"model:
+properties: miniature, display, pose, clay","['miniature', 'display', 'pose', 'clay']"
+moment,"moment:
+properties: photograph, stillness, decision, breath","['photograph', 'stillness', 'decision', 'breath']"
+mood,"mood: melancholy
+properties: rain, shadows, piano, solitude","['rain', 'shadows', 'piano', 'solitude']"
+need,"need:
+properties: shelter, growth, repair, focus","['shelter', 'growth', 'repair', 'focus']"
+nervousness,"nervousness:
+properties: sweating, racing heart, public speaking, uncertainty","['sweating', 'racing heart', 'public speaking', 'uncertainty']"
+notion,"notion:
+properties: sketchbook, doubt, invention, attic","['sketchbook', 'doubt', 'invention', 'attic']"
+obedience,"word: obedience
+properties: training, rules, respect, consequences","['training', 'rules', 'respect', 'consequences']"
+objection,"objection:
+properties: courtroom, raised hand, disagreement, hesitation","['courtroom', 'raised hand', 'disagreement', 'hesitation']"
+obligation,"obligation:
+properties: contract, guilt, schedule, responsibility","['contract', 'guilt', 'schedule', 'responsibility']"
+observation,"observation:
+properties: detective, telescope, patience, detail","['detective', 'telescope', 'patience', 'detail']"
+occupation,"occupation:
+properties: schedule, responsibility, skillset, workplace","['schedule', 'responsibility', 'skillset', 'workplace']"
+order,"word: order
+properties: queue, recipe, chaos, structure","['queue', 'recipe', 'chaos', 'structure']"
+overview,"overview:
+properties: map, planning, helicopter, summary","['map', 'planning', 'helicopter', 'summary']"
+pardon,"pardon:
+properties: courtroom, regret, release, formality","['courtroom', 'regret', 'release', 'formality']"
+past,"past:
+properties: photographs, regret, lessons, ancestors","['photographs', 'regret', 'lessons', 'ancestors']"
+perception,"perception:
+properties: bias, illusion, detail, context","['bias', 'illusion', 'detail', 'context']"
+perspective,"perspective:
+properties: architecture, distance, bias, telescope","['architecture', 'distance', 'bias', 'telescope']"
+plan,"plan:
+properties: calendar, travel, blueprint, strategy","['calendar', 'travel', 'blueprint', 'strategy']"
+pleasure,"pleasure: 
+properties: chocolate, music, warmth, discovery","['chocolate', 'music', 'warmth', 'discovery']"
+prediction,"prediction:
+properties: forecast, risk, future, gamble","['forecast', 'risk', 'future', 'gamble']"
+present,"present:
+properties: ribbon, anticipation, opening, occasion","['ribbon', 'anticipation', 'opening', 'occasion']"
+pride,"pride:
+properties: peacock, achievement, vulnerability, family","['peacock', 'achievement', 'vulnerability', 'family']"
+problem,"problem: obstacle
+properties: frustration, analysis, solution, pressure","['frustration', 'analysis', 'solution', 'pressure']"
+prohibition,"prohibition:
+properties: speakeasies, flappers, gangsters, resilience","['speakeasies', 'flappers', 'gangsters', 'resilience']"
+promise,"promise: trust
+properties: future, commitment, weight, hope","['future', 'commitment', 'weight', 'hope']"
+proof,"proof:
+properties: evidence, mathematics, baking, alibi","['evidence', 'mathematics', 'baking', 'alibi']"
+proposal,"proposal:
+properties: engagement, contract, planning, anxiety","['engagement', 'contract', 'planning', 'anxiety']"
+provocation,"provocation:
+properties: argument, challenge, testing, reaction","['argument', 'challenge', 'testing', 'reaction']"
+quality,"quality:
+properties: craftsmanship, testing, durability, perception","['craftsmanship', 'testing', 'durability', 'perception']"
+quantity,"quantity: measurement
+properties: inventory, recipe, crowd, data","['inventory', 'recipe', 'crowd', 'data']"
+realization,"realization:
+properties: dawn, puzzle, stillness, growth","['dawn', 'puzzle', 'stillness', 'growth']"
+reassurance,"reassurance:
+properties: blanket, quiet, hand-squeeze, birdsong","['blanket', 'quiet', 'hand-squeeze', 'birdsong']"
+recommendation,"recommendation:
+properties: algorithm, trust, choice, review","['algorithm', 'trust', 'choice', 'review']"
+recovery,"recovery:
+properties: physiotherapy, resilience, setback, progress","['physiotherapy', 'resilience', 'setback', 'progress']"
+regard,"regard:
+properties: portrait, respect, attention, distance","['portrait', 'respect', 'attention', 'distance']"
+relief,"relief:
+properties: exhale, cool cloth, finish line, forgiveness","['exhale', 'cool cloth', 'finish line', 'forgiveness']"
+requirement,"requirement: planning
+properties: deadline, budget, testing, contract","['deadline', 'budget', 'testing', 'contract']"
+resemblance,"resemblance:
+properties: portraits, DNA, echoes, fingerprints","['portraits', 'DNA', 'echoes', 'fingerprints']"
+resistance,"resistance:
+properties: electricity, protest, muscle, corrosion","['electricity', 'protest', 'muscle', 'corrosion']"
+resolution,"resolution:
+properties: telescope, January, commitment, focus","['telescope', 'January', 'commitment', 'focus']"
+respect,"word: respect
+properties: silence, elders, boundaries, trust","['silence', 'elders', 'boundaries', 'trust']"
+responsibility,"responsibility:
+properties: deadlines, childcare, taxes, trust","['deadlines', 'childcare', 'taxes', 'trust']"
+retaliation,"retaliation:
+properties: escalation, injustice, anger, consequences","['escalation', 'injustice', 'anger', 'consequences']"
+revolution,"revolution:
+properties: gears, protest, orbit, upheaval","['gears', 'protest', 'orbit', 'upheaval']"
+risk,"risk:
+properties: gamble, caution, insurance, adventure","['gamble', 'caution', 'insurance', 'adventure']"
+ritual,"ritual:
+properties: incense, repetition, community, ancestry","['incense', 'repetition', 'community', 'ancestry']"
+romantic,"romantic:
+properties: candlelight, travel, poetry, vulnerability","['candlelight', 'travel', 'poetry', 'vulnerability']"
+safety,"safety:
+properties: helmet, routine, locks, calm","['helmet', 'routine', 'locks', 'calm']"
+satisfaction,"satisfaction:
+properties: completion, warmth, quiet, growth","['completion', 'warmth', 'quiet', 'growth']"
+scheme,"scheme:
+properties: planning, deception, network, shortcut","['planning', 'deception', 'network', 'shortcut']"
+self-dependence,"self-dependence:
+properties: resilience, solitude, resourcefulness, pioneer","['resilience', 'solitude', 'resourcefulness', 'pioneer']"
+sensation,"sensation:
+properties: texture, temperature, surprise, electricity","['texture', 'temperature', 'surprise', 'electricity']"
+shame,"shame:
+properties: blushing, secrets, isolation, regret","['blushing', 'secrets', 'isolation', 'regret']"
+shyness,"shyness:
+properties: blush, silence, corners, observing","['blush', 'silence', 'corners', 'observing']"
+skill,"skill: craft
+properties: practice, patience, learning, toolbox","['practice', 'patience', 'learning', 'toolbox']"
+solitude,"solitude:
+properties: mountains, journal, quiet, stars","['mountains', 'journal', 'quiet', 'stars']"
+stimulus,"stimulus:
+properties: response, experiment, nerve, trigger","['response', 'experiment', 'nerve', 'trigger']"
+success,"success: ambition
+properties: momentum, reward, risk, planning","['momentum', 'reward', 'risk', 'planning']"
+support,"support:
+properties: bridge, scaffolding, backbone, encouragement","['bridge', 'scaffolding', 'backbone', 'encouragement']"
+task,"task:
+properties: deadline, checklist, effort, outcome","['deadline', 'checklist', 'effort', 'outcome']"
+theory,"theory: gravity
+properties: experiment, doubt, explanation, universe","['experiment', 'doubt', 'explanation', 'universe']"
+thirst,"thirst:
+properties: desert, salt, mirage, running ","['desert', 'salt', 'mirage', 'running']"
+thought,"thought: contemplation
+properties: labyrinth, static, echo, blueprint","['labyrinth', 'static', 'echo', 'blueprint']"
+threat,"threat: danger
+properties: anxiety, shield, warning, consequence","['anxiety', 'shield', 'warning', 'consequence']"
+tradition,"tradition:
+properties: heirloom, ritual, storytelling, stability","['heirloom', 'ritual', 'storytelling', 'stability']"
+trend,"trend:
+properties: forecasting, diffusion, cycles, novelty","['forecasting', 'diffusion', 'cycles', 'novelty']"
+trust,"trust:
+properties: vulnerability, bridge, secret, foundation","['vulnerability', 'bridge', 'secret', 'foundation']"
+value,"value:
+properties: ethics, investment, heirloom, worth","['ethics', 'investment', 'heirloom', 'worth']"
+vanity,"vanity:
+properties: mirror, peacock, applause, insecurity","['mirror', 'peacock', 'applause', 'insecurity']"
+violation,"violation:
+properties: boundaries, trust, consequence, secrecy","['boundaries', 'trust', 'consequence', 'secrecy']"
+warning,"warning:
+properties: lighthouse, sirens, yellow, caution tape","['lighthouse', 'sirens', 'yellow', 'caution tape']"
+weakness,"weakness:
+properties: vulnerability, hesitation, dependence, fracture","['vulnerability', 'hesitation', 'dependence', 'fracture']"
+will,"will:
+properties: testament, future, power, stubbornness","['testament', 'future', 'power', 'stubbornness']"
+willingness,"willingness:
+properties: compromise, learning, volunteer, patience","['compromise', 'learning', 'volunteer', 'patience']"
+wish,"wish:
+properties: star, birthday, eyelash, secret","['star', 'birthday', 'eyelash', 'secret']"
+wit,"wit:
+properties: puzzle, smirk, timing, observation","['puzzle', 'smirk', 'timing', 'observation']"
+wonder,"word: wonder
+properties: stars, childhood, maps, silence","['stars', 'childhood', 'maps', 'silence']"
+work,"work: effort
+properties: deadline, commute, collaboration, invoice","['deadline', 'commute', 'collaboration', 'invoice']"
+worry,"worry:
+properties: sleeplessness, knots, future, responsibility","['sleeplessness', 'knots', 'future', 'responsibility']"
+accusation,"accusation: evidence, denial, anger, courtroom","['evidence', 'denial', 'anger', 'courtroom']"
+agony,"agony: silence, thorns, shadows, waiting","['silence', 'thorns', 'shadows', 'waiting']"
+anger,"anger: frustration, clenched fists, isolation, injustice","['frustration', 'clenched fists', 'isolation', 'injustice']"
+assassination,"assassination: motive, investigation, security, aftermath","['motive', 'investigation', 'security', 'aftermath']"
+attention,"attention: spotlight, focus, classroom, hummingbird ","['spotlight', 'focus', 'classroom', 'hummingbird']"
+beauty,"beauty: sunrise, gardens, music, kindness","['sunrise', 'gardens', 'music', 'kindness']"
+betrayal,"betrayal: silence, shattered glass, cold shoulder, hidden knife","['silence', 'shattered glass', 'cold shoulder', 'hidden knife']"
+blackmail,"blackmail: secrets, leverage, fear, desperation","['secrets', 'leverage', 'fear', 'desperation']"
+boredom,"boredom: dust, clock, empty, static","['dust', 'clock', 'empty', 'static']"
+boycott,"boycott: protest, grapes, principle, empty shelves","['protest', 'grapes', 'principle', 'empty shelves']"
+catastrophe,"catastrophe: debris, silence, insurance, exhaustion","['debris', 'silence', 'insurance', 'exhaustion']"
+caution,"caution: yellow, bridge, silence, fragile","['yellow', 'bridge', 'silence', 'fragile']"
+comparison,"comparison: scales, recipes, judges, evolution","['scales', 'recipes', 'judges', 'evolution']"
+crime,"crime: investigation, prison, evidence, regret","['investigation', 'prison', 'evidence', 'regret']"
+culture,"culture: traditions, museums, diversity, beliefs","['traditions', 'museums', 'diversity', 'beliefs']"
+destruction,"destruction: rubble, silence, regret, wildfire","['rubble', 'silence', 'regret', 'wildfire']"
+difference,"difference: puzzle, growth, perspective, challenge","['puzzle', 'growth', 'perspective', 'challenge']"
+diligence,"diligence: blueprints, marathon, garden, clockwork","['blueprints', 'marathon', 'garden', 'clockwork']"
+disappointment,"disappointment: rain, silence, dropped-ice-cream, cancelled-plans","['rain', 'silence', 'dropped-ice-cream', 'cancelled-plans']"
+effort,"effort: climb, sweat, focus, reward","['climb', 'sweat', 'focus', 'reward']"
+fear,"fear: darkness, heights, silence, vulnerability","['darkness', 'heights', 'silence', 'vulnerability']"
+forgiveness,"forgiveness: release, bridge, growth, vulnerability","['release', 'bridge', 'growth', 'vulnerability']"
+freedom,"freedom: mountains, birds, choice, silence","['mountains', 'birds', 'choice', 'silence']"
+fun,"fun: laughter, games, travel, surprise","['laughter', 'games', 'travel', 'surprise']"
+genius,"genius: innovation, puzzles, insight, solitude","['innovation', 'puzzles', 'insight', 'solitude']"
+hate,"hate: darkness, isolation, betrayal, clenched fists","['darkness', 'isolation', 'betrayal', 'clenched fists']"
+honor,"honor: courage, sacrifice, respect, legacy","['courage', 'sacrifice', 'respect', 'legacy']"
+hope,"hope: rainbow, seedlings, lighthouse, patience","['rainbow', 'seedlings', 'lighthouse', 'patience']"
+horror,"horror: shadows, isolation, decay, screams","['shadows', 'isolation', 'decay', 'screams']"
+hunger,"hunger: emptiness, growling, focus, desperation","['emptiness', 'growling', 'focus', 'desperation']"
+illusion,"illusion: smoke, mirrors, deception, dream","['smoke', 'mirrors', 'deception', 'dream']"
+insurrection,"insurrection: barricades, pamphlets, distrust, aftermath","['barricades', 'pamphlets', 'distrust', 'aftermath']"
+jealousy,"jealousy: insecurity, green, possession, comparison","['insecurity', 'green', 'possession', 'comparison']"
+justice,"justice: scales, courtroom, fairness, consequence","['scales', 'courtroom', 'fairness', 'consequence']"
+knowledge,"knowledge: library, curiosity, experience, doubt","['library', 'curiosity', 'experience', 'doubt']"
+luck,"luck: four-leaf clover, gamble, fortune, serendipity","['four-leaf clover', 'gamble', 'fortune', 'serendipity']"
+magic,"magic: illusion, wonder, secrets, transformation","['illusion', 'wonder', 'secrets', 'transformation']"
+memory,"memory: photograph, grandmother, forgetting, déjà vu","['photograph', 'grandmother', 'forgetting', 'déjà vu']"
+menace,"menace: shadow, stillness, warning, corrosion","['shadow', 'stillness', 'warning', 'corrosion']"
+misdemeanor,"misdemeanor: courtroom, probation, regret, bicycle theft","['courtroom', 'probation', 'regret', 'bicycle theft']"
+misery,"misery: rain, silence, shadows, exhaustion","['rain', 'silence', 'shadows', 'exhaustion']"
+mourning,"mourning: silence, rain, photographs, emptiness","['silence', 'rain', 'photographs', 'emptiness']"
+nightmare,"nightmare: sweat, paralysis, darkness, falling","['sweat', 'paralysis', 'darkness', 'falling']"
+ostracism,"ostracism: silence, exile, loneliness, judgment","['silence', 'exile', 'loneliness', 'judgment']"
+pain,"pain: pressure, silence, shadow, thorns","['pressure', 'silence', 'shadow', 'thorns']"
+panic,"panic: darkness, racing, trapped, silence","['darkness', 'racing', 'trapped', 'silence']"
+passion,"passion: fire, dance, risk, creation","['fire', 'dance', 'risk', 'creation']"
+peace,"peace: stillness, doves, treaty, garden","['stillness', 'doves', 'treaty', 'garden']"
+perfection,"perfection: blueprint, stillness, pressure, glass","['blueprint', 'stillness', 'pressure', 'glass']"
+performance,"performance: stage, anxiety, review, practice","['stage', 'anxiety', 'review', 'practice']"
+potential,"potential: growth, future, risk, energy","['growth', 'future', 'risk', 'energy']"
+poverty,"poverty: hunger, resilience, isolation, education ","['hunger', 'resilience', 'isolation', 'education']"
+power,"power: control, engine, responsibility, voltage","['control', 'engine', 'responsibility', 'voltage']"
+prosperity,"prosperity: gardens, stability, harvest, legacy","['gardens', 'stability', 'harvest', 'legacy']"
+protection,"protection: shield, bunker, insurance, guardian","['shield', 'bunker', 'insurance', 'guardian']"
+protest,"protest: signs, chanting, police, change","['signs', 'chanting', 'police', 'change']"
+punishment,"punishment: regret, isolation, fairness, consequence","['regret', 'isolation', 'fairness', 'consequence']"
+rage,"rage: fire, control, injustice, shaking 
+
+","['fire', 'control', 'injustice', 'shaking']"
+regret,"regret: silence, photographs, crossroads, lost time","['silence', 'photographs', 'crossroads', 'lost time']"
+remorse,"remorse: silence, shadows, letters, amends","['silence', 'shadows', 'letters', 'amends']"
+revenge,"revenge: patience, planning, bitterness, escalation","['patience', 'planning', 'bitterness', 'escalation']"
+sensitivity,"sensitivity: radar, allergies, trust, art 
+
+","['radar', 'allergies', 'trust', 'art']"
+slapstick,"slapstick: pie, pratfall, exaggeration, chaos","['pie', 'pratfall', 'exaggeration', 'chaos']"
+stress,"stress: deadlines, tension, fatigue, silence","['deadlines', 'tension', 'fatigue', 'silence']"
+suffering,"suffering: silence, shadows, resilience, thorns","['silence', 'shadows', 'resilience', 'thorns']"
+surprise,"surprise: party, gasp, gift, unexpected 
+
+","['party', 'gasp', 'gift', 'unexpected']"
+talent,"talent: pottery, stage, practice, mentor","['pottery', 'stage', 'practice', 'mentor']"
+terrorism,"terrorism: fear, airports, politics, hostages","['fear', 'airports', 'politics', 'hostages']"
+victory,"victory: celebration, trophy, relief, strategy","['celebration', 'trophy', 'relief', 'strategy']"
+view,"view: panorama, telescope, opinion, window","['panorama', 'telescope', 'opinion', 'window']"
+violence,"violence: fear, control, trauma, anger","['fear', 'control', 'trauma', 'anger']"
+war,"war: rubble, refugees, treaties, propaganda","['rubble', 'refugees', 'treaties', 'propaganda']"
+wealth,"wealth: castles, security, inheritance, leisure","['castles', 'security', 'inheritance', 'leisure']"
+welfare,"welfare: assistance, security, community, dignity","['assistance', 'security', 'community', 'dignity']"
+stability,"stability:
+properties: foundation, equilibrium, routine, calm 
+
+
+
+","['foundation', 'equilibrium', 'routine', 'calm']"
+selection,"selection: 
+properties: lottery, editing, committee, genetics","['lottery', 'editing', 'committee', 'genetics']"

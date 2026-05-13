@@ -1,0 +1,16 @@
+You are given an abstract word and four properties that refer to this word. You have to classify each property into one of the following five categories.
+
+Sensorimotor feature: A feature that can be experienced by our senses. It describes the meaning of the abstract concept, or the abstract concept can be applied to this feature.
+Social constellation: a feature or a situation that describes the coexistence of different persons or which implies an interaction between at least two different persons.
+Internal state and emotion: a feature or a situation that reflects internal, cognitive processes (e.g., motivation, emotion, volition).
+Association: a feature or a situation that does not describe the abstract concept, but which is thematically or symbolically related to it.
+Other abstract concept: an abstract feature that describes the abstract concept or to which the abstract concept can be applied.
+
+You must output each property and the category, formatted as in the following example (Abstract word: sympathy, Properties: hug, friends, joy, sun).
+hug: Sensorimotor feature 
+friends: Social constellation
+joy: Internal state and emotion
+sun: Association
+
+Abstract word: {word}
+Properties: {properties}

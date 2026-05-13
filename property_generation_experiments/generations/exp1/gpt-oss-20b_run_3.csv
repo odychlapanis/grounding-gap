@@ -1,0 +1,587 @@
+word,response,properties
+ability,"word: ability
+properties: exam, coach, growth, challenge","['exam', 'coach', 'growth', 'challenge']"
+accusation,"word: accusation  
+properties: courtroom, evidence, defamation, investigation","['courtroom', 'evidence', 'defamation', 'investigation']"
+achievement,"word: achievement  
+properties: trophy, graduation, promotion, public applause","['trophy', 'graduation', 'promotion', 'public applause']"
+activity,"word: activity  
+properties: hiking, community service, creative workshop, dance rehearsal","['hiking', 'community service', 'creative workshop', 'dance rehearsal']"
+addiction,"word: addiction  
+properties: cigarette, hangover, midnight scrolling, broken wallet","['cigarette', 'hangover', 'midnight scrolling', 'broken wallet']"
+admiration,"word: admiration
+properties: concert, hero, portrait, sunrise","['concert', 'hero', 'portrait', 'sunrise']"
+advantage,"word: advantage  
+properties: strategy, network, insight, innovation","['strategy', 'network', 'insight', 'innovation']"
+adventure,"word: adventure  
+properties: trek, unknown, risk, thrill","['trek', 'unknown', 'risk', 'thrill']"
+advice,"word: advice  
+properties: mentor, dentist, deadline, recipe","['mentor', 'dentist', 'deadline', 'recipe']"
+agony,"word: agony  
+properties: restless sleep, midnight whisper, cracked phone screen, ticking watch","['restless sleep', 'midnight whisper', 'cracked phone screen', 'ticking watch']"
+agreement,"word: agreement  
+properties: handshake, compromise, signing, settlement","['handshake', 'compromise', 'signing', 'settlement']"
+amazement,"word: amazement properties: thunderous applause, newborn's first step, hidden door behind bookcase, midnight fireworks","['thunderous applause', ""newborn's first step"", 'hidden door behind bookcase', 'midnight fireworks']"
+ambition,"word: ambition
+properties: career ladder, rocket, trophy, winning","['career ladder', 'rocket', 'trophy', 'winning']"
+ambush,"word: ambush properties: forest, silence, camouflage, strategy","['forest', 'silence', 'camouflage', 'strategy']"
+amusement,"word: amusement
+properties: carnival, clown, laughter, popcorn","['carnival', 'clown', 'laughter', 'popcorn']"
+anger,"word: anger  
+properties: storm, clenching fists, road rage, fiery debate","['storm', 'clenching fists', 'road rage', 'fiery debate']"
+anxiety,"word: anxiety  
+properties: college entrance exam, rush hour traffic, missing your flight, waiting for a reply  
+
+","['college entrance exam', 'rush hour traffic', 'missing your flight', 'waiting for a reply']"
+apology,"word: apology
+properties: heartfelt face‑to‑face conversation, handwritten apology letter, friendly gift (e.g., pizza), public statement on social media","['heartfelt face‑to‑face conversation', 'handwritten apology letter', 'friendly gift (e.g.', 'pizza)', 'public statement on social media']"
+appearance,"word: appearance  
+properties: red carpet, mirror, stage entrance, costume","['red carpet', 'mirror', 'stage entrance', 'costume']"
+appetite,"word: appetite  
+properties: aroma, family dinner, calorie counter, chef plating","['aroma', 'family dinner', 'calorie counter', 'chef plating']"
+application,"word: application  
+properties: software, résumé, paint, grant","['software', 'résumé', 'paint', 'grant']"
+aptitude,"word: aptitude  
+properties: coding bootcamp, music lessons, board game strategy, volunteer tutoring","['coding bootcamp', 'music lessons', 'board game strategy', 'volunteer tutoring']"
+argument,"word: argument  
+properties: heated confrontation, family disagreement, courtroom trial, robust online discussion","['heated confrontation', 'family disagreement', 'courtroom trial', 'robust online discussion']"
+art,"word: art
+properties: gallery, canvas, exhibition, brush","['gallery', 'canvas', 'exhibition', 'brush']"
+aspect,"word: aspect  
+properties: camera, challenge, horizon, feature","['camera', 'challenge', 'horizon', 'feature']"
+assassination,"word: assassination
+properties: political intrigue, covert operations, sudden death, high-profile targets","['political intrigue', 'covert operations', 'sudden death', 'high-profile targets']"
+assumption,"word: assumption
+properties: shortcut, default, risk, missing evidence","['shortcut', 'default', 'risk', 'missing evidence']"
+astonishment,"word: astonishment  
+properties: unseen, massive, starlight, silence","['unseen', 'massive', 'starlight', 'silence']"
+attack,"word: attack  
+properties: bombing, hacking, predation, protest","['bombing', 'hacking', 'predation', 'protest']"
+attention,"word: attention
+properties: billboard, eye patch, applause, phone notification","['billboard', 'eye patch', 'applause', 'phone notification']"
+attraction,"word: attraction  
+properties: carnival ride, planetary gravity, magnetic field, celebrity crush","['carnival ride', 'planetary gravity', 'magnetic field', 'celebrity crush']"
+beauty,"word: beauty  
+properties: sunrise, jasmine, saxophone, puppy","['sunrise', 'jasmine', 'saxophone', 'puppy']"
+being,"word: being  
+properties: mirror, shadow, rain, pulse","['mirror', 'shadow', 'rain', 'pulse']"
+betrayal,"word: betrayal  
+properties: lover cheating, political corruption, corporate espionage, best friend stealing credit","['lover cheating', 'political corruption', 'corporate espionage', 'best friend stealing credit']"
+blackmail,"word: blackmail  
+properties: hidden diary, scandal, power play, moral dilemma","['hidden diary', 'scandal', 'power play', 'moral dilemma']"
+boredom,"word: boredom  
+properties: long lecture, static TV, empty parking lot, blank spreadsheet","['long lecture', 'static TV', 'empty parking lot', 'blank spreadsheet']"
+boycott,"word: boycott
+properties: protest rally, supply chain halt, consumer activism, global brand criticism","['protest rally', 'supply chain halt', 'consumer activism', 'global brand criticism']"
+bravery,"word: bravery
+properties: firefighter entering blaze, solo mountaineer on steep ridge, startup founder pitching to investors, protester marching under police barrier","['firefighter entering blaze', 'solo mountaineer on steep ridge', 'startup founder pitching to investors', 'protester marching under police barrier']"
+career,"word: career  
+properties: resume, networking, promotions, office","['resume', 'networking', 'promotions', 'office']"
+carefulness,"word: carefulness  
+properties: quality control, proof‑reading, risk assessment, packaging design","['quality control', 'proof‑reading', 'risk assessment', 'packaging design']"
+catastrophe,"word: catastrophe  
+properties: earthquake, wildfire, stock market crash, flood","['earthquake', 'wildfire', 'stock market crash', 'flood']"
+caution,"word: caution  
+properties: helmet, yellow light, guardrail, safety‑net","['helmet', 'yellow light', 'guardrail', 'safety‑net']"
+challenge,"word: challenge  
+properties: obstacle course, debate, first ascent, unfamiliar territory","['obstacle course', 'debate', 'first ascent', 'unfamiliar territory']"
+chaos,"word: chaos  
+properties: black hole, traffic jam, fireworks finale, mind‑bending mandala","['black hole', 'traffic jam', 'fireworks finale', 'mind‑bending mandala']"
+character,"character: protagonist, comic strip, costume, plot twist",[]
+charm,"word: charm  
+properties: wand, mystery, perfume, necklace","['wand', 'mystery', 'perfume', 'necklace']"
+comfort,"word: comfort  
+properties: warm blanket, crackling fire, soft whisper, gentle hug","['warm blanket', 'crackling fire', 'soft whisper', 'gentle hug']"
+commitment,"word: commitment  
+properties: wedding ceremony, retirement plan, semester schedule, volunteer service","['wedding ceremony', 'retirement plan', 'semester schedule', 'volunteer service']"
+comparison,"word: comparison
+properties: benchmark, historical data, exam scoring, product review","['benchmark', 'historical data', 'exam scoring', 'product review']"
+compassion,"word: compassion  
+properties: volunteer work, listening ear, hot soup, gentle touch","['volunteer work', 'listening ear', 'hot soup', 'gentle touch']"
+competence,"word: competence  
+properties: teamwork, innovation, quality, reliability","['teamwork', 'innovation', 'quality', 'reliability']"
+compromise,"word: compromise  
+properties: negotiation, balance, dialogue, middle ground","['negotiation', 'balance', 'dialogue', 'middle ground']"
+compulsion,"word: compulsion  
+properties: counting footsteps, doodling hidden shapes, rearranging fluorescent bulbs, tasting different spices with each bite","['counting footsteps', 'doodling hidden shapes', 'rearranging fluorescent bulbs', 'tasting different spices with each bite']"
+confession,"word: confession  
+properties: prayer, guilt, diary, truth","['prayer', 'guilt', 'diary', 'truth']"
+conflict,"word: conflict  
+properties: courtroom drama, family feud, corporate takeover, diplomatic standoff","['courtroom drama', 'family feud', 'corporate takeover', 'diplomatic standoff']"
+consideration,"word: consideration  
+properties: legal clause, contemplative pause, gratitude note, agenda item","['legal clause', 'contemplative pause', 'gratitude note', 'agenda item']"
+consolation,"word: consolation  
+properties: handwritten apology, cat purring, freshly baked bread, quiet park bench","['handwritten apology', 'cat purring', 'freshly baked bread', 'quiet park bench']"
+contempt,"word: contempt  
+properties: eye roll, snide remark, social snubbing, cold glare","['eye roll', 'snide remark', 'social snubbing', 'cold glare']"
+convention,"word: convention
+properties: networking, dress code, panel discussion, trade booths","['networking', 'dress code', 'panel discussion', 'trade booths']"
+cooperation,"word: cooperation  
+properties: teamwork, shared resources, compromise, mutual success","['teamwork', 'shared resources', 'compromise', 'mutual success']"
+courage,"word: courage  
+properties: firefighter, protest, first steps, risk","['firefighter', 'protest', 'first steps', 'risk']"
+creativity,"word: creativity  
+properties: spark, rhythm, patchwork, playground","['spark', 'rhythm', 'patchwork', 'playground']"
+crime,"word: crime  
+properties: robbery, detective, courthouse, victim autobiography","['robbery', 'detective', 'courthouse', 'victim autobiography']"
+criticism,"word: criticism
+properties: film review, political editorial, restaurant critique, workshop feedback","['film review', 'political editorial', 'restaurant critique', 'workshop feedback']"
+cruelty,"word: cruelty  
+properties: animal testing, bullying, war, neglect","['animal testing', 'bullying', 'war', 'neglect']"
+culture,"word: culture
+properties: cuisine, museum, festivals, folklore","['cuisine', 'museum', 'festivals', 'folklore']"
+curiosity,"word: curiosity  
+properties: cat, question mark, microscope, treasure hunt","['cat', 'question mark', 'microscope', 'treasure hunt']"
+custom,"word: custom
+properties: tailored suit, customs office, car modification, gift wrapping","['tailored suit', 'customs office', 'car modification', 'gift wrapping']"
+danger,"word: danger  
+properties: wildfire, car crash, snake, alarm","['wildfire', 'car crash', 'snake', 'alarm']"
+death,"word: death
+properties: funeral, casket, mourners, silence","['funeral', 'casket', 'mourners', 'silence']"
+decision,"word: decision  
+properties: deadline, consequences, crossroads, gut feeling","['deadline', 'consequences', 'crossroads', 'gut feeling']"
+demand,"word: demand  
+properties: lawsuit, market spike, strike, deadline","['lawsuit', 'market spike', 'strike', 'deadline']"
+desire,"word: desire  
+properties: ambition, romance, freedom, curiosity","['ambition', 'romance', 'freedom', 'curiosity']"
+desperation,"word: desperation  
+properties: empty phone, flickering streetlight, shaky bridge, last call","['empty phone', 'flickering streetlight', 'shaky bridge', 'last call']"
+destruction,"word: destruction  
+properties: earthquake, nuclear blast, zombie apocalypse, demolition crew","['earthquake', 'nuclear blast', 'zombie apocalypse', 'demolition crew']"
+detection,"word: detection  
+properties: alarm, stethoscope, surveillance, pattern","['alarm', 'stethoscope', 'surveillance', 'pattern']"
+dictatorship,"word: dictatorship
+properties: censorship, protests, surveillance, propaganda","['censorship', 'protests', 'surveillance', 'propaganda']"
+difference,"word: difference
+properties: contrast, spectrum, benchmark, perspective","['contrast', 'spectrum', 'benchmark', 'perspective']"
+difficulty,"word: difficulty
+properties: cliff, maze, knot, storm","['cliff', 'maze', 'knot', 'storm']"
+dignity,"word: dignity  
+properties: courtroom silence, mountain summit, black‑and‑white portrait, quiet resilience","['courtroom silence', 'mountain summit', 'black‑and‑white portrait', 'quiet resilience']"
+diligence,"word: diligence  
+properties: research, deadline, notebook, coffee","['research', 'deadline', 'notebook', 'coffee']"
+disadvantage,"word: disadvantage  
+properties: crowded event, missing equipment, lower stamina, longer commute","['crowded event', 'missing equipment', 'lower stamina', 'longer commute']"
+disappointment,"word: disappointment  
+properties: broken promise, empty bouquet, canceled flight, wilted plant","['broken promise', 'empty bouquet', 'canceled flight', 'wilted plant']"
+discovery,"word: discovery  
+properties: ancient manuscript, new planet, breakthrough experiment, unexpected friendship","['ancient manuscript', 'new planet', 'breakthrough experiment', 'unexpected friendship']"
+disgust,"word: disgust  
+properties: rotten pizza, stuck traffic, smeared paint, politicking scandal","['rotten pizza', 'stuck traffic', 'smeared paint', 'politicking scandal']"
+dismay,"word: dismay
+properties: sudden rain on beach day, cracked phone screen, surprise empty coffee cup, traffic jam after alarm clock strikes.","['sudden rain on beach day', 'cracked phone screen', 'surprise empty coffee cup', 'traffic jam after alarm clock strikes.']"
+dispute,"word: dispute  
+properties: courtroom, heated debate, border conflict, settlement  ","['courtroom', 'heated debate', 'border conflict', 'settlement']"
+distance,"word: distance  
+properties: photo lens focus, rocket launch trajectory, breakup silence, Zoom call divide","['photo lens focus', 'rocket launch trajectory', 'breakup silence', 'Zoom call divide']"
+distraction,"word: distraction  
+properties: phone call, traffic noise, daydream, sudden laughter","['phone call', 'traffic noise', 'daydream', 'sudden laughter']"
+diversity,"word: diversity
+properties: rainbow, multicultural festival, rainforest ecosystem, mixed salad bowl","['rainbow', 'multicultural festival', 'rainforest ecosystem', 'mixed salad bowl']"
+doubt,"word: doubt
+properties: question, hesitation, silent pause, paradox","['question', 'hesitation', 'silent pause', 'paradox']"
+downfall,"word: downfall  
+properties: crumbling statue, shattered crown, wilted roses, silent applause","['crumbling statue', 'shattered crown', 'wilted roses', 'silent applause']"
+dream,"word: dream  
+properties: night, sleep, imagination, wish","['night', 'sleep', 'imagination', 'wish']"
+duty,"word: duty  
+properties: army drill, tax filing, fire alarm training, neighborhood clean-up","['army drill', 'tax filing', 'fire alarm training', 'neighborhood clean-up']"
+eagerness,"word: eagerness  
+properties: first to arrive, volunteering, tackling a difficult puzzle, training for a competition","['first to arrive', 'volunteering', 'tackling a difficult puzzle', 'training for a competition']"
+effort,"word: effort
+properties: determination, sweat, challenge, practice","['determination', 'sweat', 'challenge', 'practice']"
+elegance,"word: elegance  
+properties: couture runway, silver dining set, moonlit garden, vintage car showroom","['couture runway', 'silver dining set', 'moonlit garden', 'vintage car showroom']"
+emotion,"word: emotion
+properties: heart racing, song, storm, poem","['heart racing', 'song', 'storm', 'poem']"
+enchantment,"word: enchantment  
+properties: moonlit garden, firefly glow, ancient oak, whispered secret","['moonlit garden', 'firefly glow', 'ancient oak', 'whispered secret']"
+enthusiasm,"word: enthusiasm  
+properties: team huddle, sunrise hike, volunteer day, graduation ceremony","['team huddle', 'sunrise hike', 'volunteer day', 'graduation ceremony']"
+envy,"word: envy  
+properties: green‑eyed monster, craving a colleague’s promotion, comparing pots on social media, yearning for a better life","['green‑eyed monster', 'craving a colleague’s promotion', 'comparing pots on social media', 'yearning for a better life']"
+error,"word: error  
+properties: stack trace, blue screen, unexpected, debug","['stack trace', 'blue screen', 'unexpected', 'debug']"
+event,"word: event  
+properties: birthday, wedding, concert, conference","['birthday', 'wedding', 'concert', 'conference']"
+excitement,"word: excitement  
+properties: rollercoaster, birthday cupcake, midnight fireworks, sports final","['rollercoaster', 'birthday cupcake', 'midnight fireworks', 'sports final']"
+expectation,"word: expectation  
+properties: deadline, promise, planning, surprise party","['deadline', 'promise', 'planning', 'surprise party']"
+experience,"word: experience
+properties: concert, travel, sunrise, challenge","['concert', 'travel', 'sunrise', 'challenge']"
+explanation,"word: explanation  
+properties: chalkboard, courtroom, data analysis, bedtime story","['chalkboard', 'courtroom', 'data analysis', 'bedtime story']"
+exploitation,"word: exploitation
+properties: child labor, data mining, resource extraction, unfair contract practices","['child labor', 'data mining', 'resource extraction', 'unfair contract practices']"
+faithfulness,"word: faithfulness
+properties: dog, sunrise, journal, metronome","['dog', 'sunrise', 'journal', 'metronome']"
+fantasy,"word: fantasy  
+properties: dragon, castle, adventure, magic","['dragon', 'castle', 'adventure', 'magic']"
+fate,"word: fate  
+properties: lottery, star alignment, chance encounter, turning point","['lottery', 'star alignment', 'chance encounter', 'turning point']"
+fear,"word: fear  
+properties: dark alley, high wind, ticking clock, first time heights","['dark alley', 'high wind', 'ticking clock', 'first time heights']"
+fight,"word: fight  
+properties: ring, police, crowd, arena","['ring', 'police', 'crowd', 'arena']"
+fitness,"word: fitness  
+properties: gym membership, running trail, protein shake, personal trainer","['gym membership', 'running trail', 'protein shake', 'personal trainer']"
+flexibility,"word: flexibility properties: yoga, gymnast, rubber band, flexible schedule","['yoga', 'gymnast', 'rubber band', 'flexible schedule']"
+force,"word: force  
+properties: gravity, legislation, weightlifting, advertising","['gravity', 'legislation', 'weightlifting', 'advertising']"
+forgiveness,"word: forgiveness  
+properties: release, trust, reconciliation, healing","['release', 'trust', 'reconciliation', 'healing']"
+freedom,"word: freedom  
+properties: child, sky, wind, journey","['child', 'sky', 'wind', 'journey']"
+fright,"word: fright  
+properties: thunder, sudden noise, dark hallway, quick breath","['thunder', 'sudden noise', 'dark hallway', 'quick breath']"
+frustration,"word: frustration  
+properties: broken Wi‑Fi, exam waiting time, stuck traffic, software update glitch","['broken Wi‑Fi', 'exam waiting time', 'stuck traffic', 'software update glitch']"
+fun,"word: fun  
+properties: party, roller coaster, game night, amusement park","['party', 'roller coaster', 'game night', 'amusement park']"
+fury,"word: fury  
+properties: hurricane, fireworks, heartbeat, protest","['hurricane', 'fireworks', 'heartbeat', 'protest']"
+future,"word: future  
+properties: space travel, AI evolution, climate adaptation, longevity","['space travel', 'AI evolution', 'climate adaptation', 'longevity']"
+genius,"word: genius  
+properties: eureka moment, Michelangelo, Edison, Einstein","['eureka moment', 'Michelangelo', 'Edison', 'Einstein']"
+glory,"word: glory 
+properties: fireworks, stadium, bronze statue, sunrise","['fireworks', 'stadium', 'bronze statue', 'sunrise']"
+grace,"word: grace  
+properties: ballet pirouette, eagle's glide, heartfelt apology, church closing prayer  ","['ballet pirouette', ""eagle's glide"", 'heartfelt apology', 'church closing prayer']"
+gratitude,"word: gratitude  
+properties: thank you card, handshake, family dinner, sunrise","['thank you card', 'handshake', 'family dinner', 'sunrise']"
+greed,"word: greed  
+properties: gold stash, hoarding, endless hunger, corrupt deals","['gold stash', 'hoarding', 'endless hunger', 'corrupt deals']"
+guess,"word: guess  
+properties: poker bluff, treasure hunt, riddles, wild card","['poker bluff', 'treasure hunt', 'riddles', 'wild card']"
+habit,"word: habit  
+properties: coffee, morning, comfort, caffeine","['coffee', 'morning', 'comfort', 'caffeine']"
+happiness,"word: happiness  
+properties: sunset, coffee, puppy, concert","['sunset', 'coffee', 'puppy', 'concert']"
+hate,"word: hate  
+properties: hate speech, hate crime, hate mail, abusive symbol","['hate speech', 'hate crime', 'hate mail', 'abusive symbol']"
+help,"word: help  
+properties: emergency hotline, volunteer shelter, lifesaver patch, emergency kit","['emergency hotline', 'volunteer shelter', 'lifesaver patch', 'emergency kit']"
+hint,"word: hint  
+properties: whisper, trail, glimmer, taste","['whisper', 'trail', 'glimmer', 'taste']"
+home,"word: home  
+properties: garden, slippers, laughter, Wi‑Fi  ","['garden', 'slippers', 'laughter', 'Wi‑Fi']"
+honor,"word: honor
+properties: military, courtroom, graduation, veteran","['military', 'courtroom', 'graduation', 'veteran']"
+hope,"word: hope
+properties: rainbow, seedling, bridge, sunrise","['rainbow', 'seedling', 'bridge', 'sunrise']"
+horror,"word: horror  
+properties: haunted mansion, nightmare, blood, creaking floorboards","['haunted mansion', 'nightmare', 'blood', 'creaking floorboards']"
+humor,"word: humor  
+properties: stand-up, punchline, laugh track, prank","['stand-up', 'punchline', 'laugh track', 'prank']"
+hunger,"word: hunger
+properties: empty belly, midnight snack hunt, community kitchen, workout motivation","['empty belly', 'midnight snack hunt', 'community kitchen', 'workout motivation']"
+hurry,"word: hurry  
+properties: alarm, subway, last-minute, coffee","['alarm', 'subway', 'last-minute', 'coffee']"
+idea,"word: idea  
+properties: brainstorming, spark, prototype, inspiration","['brainstorming', 'spark', 'prototype', 'inspiration']"
+ideal,"word: ideal  
+properties: sunrise, balance, sanctuary, harmony","['sunrise', 'balance', 'sanctuary', 'harmony']"
+illusion,"word: illusion
+properties: hologram, magician, mirage, dream","['hologram', 'magician', 'mirage', 'dream']"
+impression,"word: impression  
+properties: first meeting, stage lights, signature drawing, road sign","['first meeting', 'stage lights', 'signature drawing', 'road sign']"
+incentive,"word: incentive
+properties: free office coffee, parking spot, post‑workout pizza, mystery box","['free office coffee', 'parking spot', 'post‑workout pizza', 'mystery box']"
+independence,"word: independence  
+properties: moving out of parents' house, starting a startup, solo travel, standing firm in debate","[""moving out of parents' house"", 'starting a startup', 'solo travel', 'standing firm in debate']"
+indifference,"word: indifference  
+properties: blank stare, door left ajar, scrolling through news, cold glass of water","['blank stare', 'door left ajar', 'scrolling through news', 'cold glass of water']"
+influence,"word: influence  
+properties: politics, trend, mentor, media","['politics', 'trend', 'mentor', 'media']"
+insanity,"word: insanity  
+properties: tangled rewiring, echoing laughter, flickering neon, cracked mirrors","['tangled rewiring', 'echoing laughter', 'flickering neon', 'cracked mirrors']"
+insight,"word: insight  
+properties: aha moment, data analysis, reading between lines, intuition","['aha moment', 'data analysis', 'reading between lines', 'intuition']"
+insult,"word: insult
+properties: party roast, online meme, backhanded compliment, sarcastic comment","['party roast', 'online meme', 'backhanded compliment', 'sarcastic comment']"
+insurrection,"word: insurrection  
+properties: civil unrest, armed takeover, political upheaval, history of authoritarian regimes","['civil unrest', 'armed takeover', 'political upheaval', 'history of authoritarian regimes']"
+intention,"word: intention
+properties: quiet resolve, startup pitch, wedding vow, meditation practice","['quiet resolve', 'startup pitch', 'wedding vow', 'meditation practice']"
+interest,"word: interest
+properties: loan, rate, lecture, hobby","['loan', 'rate', 'lecture', 'hobby']"
+invention,"word: invention
+properties: prototype, curiosity, workshop, discovery","['prototype', 'curiosity', 'workshop', 'discovery']"
+jealousy,"word: jealousy
+properties: green-eyed monster, phone screen glow, protective rivalry, hidden doubt","['green-eyed monster', 'phone screen glow', 'protective rivalry', 'hidden doubt']"
+joy,"word: joy  
+properties: sunrise, laughter, family gathering, festival lights","['sunrise', 'laughter', 'family gathering', 'festival lights']"
+judgement,"word: judgement  
+properties: court, trial, bias, morality","['court', 'trial', 'bias', 'morality']"
+justice,"word: justice  
+properties: courtroom, jury deliberation, legal precedent, human rights march","['courtroom', 'jury deliberation', 'legal precedent', 'human rights march']"
+justification,"word: justification
+properties: courtroom, protest, evidence, apology","['courtroom', 'protest', 'evidence', 'apology']"
+kindness,"word: kindness  
+properties: volunteer, hug, bread, sunrise","['volunteer', 'hug', 'bread', 'sunrise']"
+knowledge,"word: knowledge  
+properties: science, exam, lecture, study","['science', 'exam', 'lecture', 'study']"
+love,"word: love
+properties: first kiss, rainy day, blanket fort, whispered secrets","['first kiss', 'rainy day', 'blanket fort', 'whispered secrets']"
+luck,"word: luck  
+properties: rolling dice, horseshoe, rainbow, black cat  ","['rolling dice', 'horseshoe', 'rainbow', 'black cat']"
+lust,"word: lust  
+properties: silk, pulse, moonlit, whisper","['silk', 'pulse', 'moonlit', 'whisper']"
+luxury,"word: luxury  
+properties: featherbed, champagne, private jet, spa","['featherbed', 'champagne', 'private jet', 'spa']"
+magic,"word: magic
+properties: illusion, stagecraft, wonder, hat trick","['illusion', 'stagecraft', 'wonder', 'hat trick']"
+manipulation,"word: manipulation  
+properties: puppet, illusion, algorithm, policy","['puppet', 'illusion', 'algorithm', 'policy']"
+manners,"word: manners  
+properties: handshake, greeting, formal dress code, queueing","['handshake', 'greeting', 'formal dress code', 'queueing']"
+matter,"word: matter  
+properties: chemistry, laboratory, Martian regolith, climate change","['chemistry', 'laboratory', 'Martian regolith', 'climate change']"
+meanness,"word: meanness  
+properties: snide comment, closed door, hidden insult, hostile silence","['snide comment', 'closed door', 'hidden insult', 'hostile silence']"
+memory,"word: memory  
+properties: photo album, grandmother’s kitchen, first love, black box  ","['photo album', 'grandmother’s kitchen', 'first love', 'black box']"
+menace,"word: menace  
+properties: dark alley, flickering neon, storm clouds, shadowy figure","['dark alley', 'flickering neon', 'storm clouds', 'shadowy figure']"
+mercy,"word: mercy  
+properties: volunteer at animal shelter, unexpected summer rain, soft blanket, first child’s laughter","['volunteer at animal shelter', 'unexpected summer rain', 'soft blanket', 'first child’s laughter']"
+miracle,"word: miracle  
+properties: sudden infant birth, robust disease reversal, lost artifact discovery, treaty after decades of tension","['sudden infant birth', 'robust disease reversal', 'lost artifact discovery', 'treaty after decades of tension']"
+misdemeanor,"word: misdemeanor  
+properties: courtroom, fines, probation, community service","['courtroom', 'fines', 'probation', 'community service']"
+misery,"word: misery  
+properties: dingy hallway, cracked stair, flickering streetlamp, unanswered phone call","['dingy hallway', 'cracked stair', 'flickering streetlamp', 'unanswered phone call']"
+mockery,"word: mockery  
+properties: political satire, prank, meme, playful tease","['political satire', 'prank', 'meme', 'playful tease']"
+model,"word: model  
+properties: catwalk, physics simulation, prototype, data forecast","['catwalk', 'physics simulation', 'prototype', 'data forecast']"
+moment,"word: moment  
+properties: first kiss, train arrival, deadline, heartbeat","['first kiss', 'train arrival', 'deadline', 'heartbeat']"
+mood,"word: mood  
+properties: sunrise, jazz, blanket, reflection","['sunrise', 'jazz', 'blanket', 'reflection']"
+mourning,"word: mourning  
+properties: funeral, obituary, black roses, silence","['funeral', 'obituary', 'black roses', 'silence']"
+need,"word: need  
+properties: hunger, deadline, comfort, growth","['hunger', 'deadline', 'comfort', 'growth']"
+nervousness,"word: nervousness  
+properties: pre-interview jitters, backstage silence before opening night, cold sweat during a sudden heatwave, trembling handshake at a networking event","['pre-interview jitters', 'backstage silence before opening night', 'cold sweat during a sudden heatwave', 'trembling handshake at a networking event']"
+nightmare,"word: nightmare  
+properties: haunting, insomnia, REM, clock  ","['haunting', 'insomnia', 'REM', 'clock']"
+notion,"word: notion  
+properties: app, workspace, templates, integration","['app', 'workspace', 'templates', 'integration']"
+obedience,"word: obedience  
+properties: puppy training, traffic lights, court summons, robot programming","['puppy training', 'traffic lights', 'court summons', 'robot programming']"
+objection,"word: objection  
+properties: court, pause, rebuttal, protest","['court', 'pause', 'rebuttal', 'protest']"
+obligation,"word: obligation  
+properties: rent payment, wedding vows, charity donation, scholarship application","['rent payment', 'wedding vows', 'charity donation', 'scholarship application']"
+observation,"word: observation  
+properties: telescope, laboratory experiment, field trip, recorded video
+
+","['telescope', 'laboratory experiment', 'field trip', 'recorded video']"
+occupation,"word: occupation  
+properties: meeting, paycheck, resume, office","['meeting', 'paycheck', 'resume', 'office']"
+order,"word: order
+properties: queue, chain-of-command, evidence trail, recipe steps","['queue', 'chain-of-command', 'evidence trail', 'recipe steps']"
+ostracism,"word: ostracism  
+properties: first day of school, team sports practice, online gaming lobby, high school dance  ","['first day of school', 'team sports practice', 'online gaming lobby', 'high school dance']"
+overview,"word: overview
+properties: city skyline, headline, keynote, road trip","['city skyline', 'headline', 'keynote', 'road trip']"
+pain,"word: pain  
+properties: surgery, heartbreak, spider bite, cold compress","['surgery', 'heartbreak', 'spider bite', 'cold compress']"
+panic,"word: panic  
+properties: adrenaline surge, emergency exit, crowd surge, stock market crash","['adrenaline surge', 'emergency exit', 'crowd surge', 'stock market crash']"
+pardon,"word: pardon  
+properties: court, traffic ticket, polite interjection, profanity excuse","['court', 'traffic ticket', 'polite interjection', 'profanity excuse']"
+passion,"word: passion  
+properties: midnight kitchen adventures, blazing guitar solos, marathon training, dancing in the rain","['midnight kitchen adventures', 'blazing guitar solos', 'marathon training', 'dancing in the rain']"
+past,"word: past  
+properties: memories, history, museum, nostalgia","['memories', 'history', 'museum', 'nostalgia']"
+peace,"word: peace
+properties: meditation, sunrise, family dinner, quiet forest","['meditation', 'sunrise', 'family dinner', 'quiet forest']"
+perception,"word: perception  
+properties: optical illusion, cognitive bias, art critique, sensory overload","['optical illusion', 'cognitive bias', 'art critique', 'sensory overload']"
+perfection,"word: perfection  
+properties: diamond, sunrise, mirror, white lace","['diamond', 'sunrise', 'mirror', 'white lace']"
+performance,"word: performance  
+properties: stage lights, applause, rehearsal, critique","['stage lights', 'applause', 'rehearsal', 'critique']"
+perspective,"word: perspective  
+properties: camera tilt, depth cue, historical lens, narrative arc","['camera tilt', 'depth cue', 'historical lens', 'narrative arc']"
+plan,"word: plan  
+properties: calendar, budget, itinerary, blueprint","['calendar', 'budget', 'itinerary', 'blueprint']"
+pleasure,"word: pleasure  
+properties: sweet dessert, warm bath, laughter with friends, quiet beach 🌊🍰🛀🎶","['sweet dessert', 'warm bath', 'laughter with friends', 'quiet beach 🌊🍰🛀🎶']"
+potential,"word: potential
+properties: hidden talent, electric charge, startup, seed","['hidden talent', 'electric charge', 'startup', 'seed']"
+poverty,"word: poverty  
+properties: food bank lines, rent arrears, children denied vaccinations, nighttime street markets","['food bank lines', 'rent arrears', 'children denied vaccinations', 'nighttime street markets']"
+power,"word: power
+properties: electricity, political authority, governance, light","['electricity', 'political authority', 'governance', 'light']"
+prediction,"word: prediction  
+properties: horoscope, lottery, stock market, AI  ","['horoscope', 'lottery', 'stock market', 'AI']"
+present,"word: present
+properties: gift, birthday, concert, meeting","['gift', 'birthday', 'concert', 'meeting']"
+pride,"word: pride  
+properties: rainbow flag, lion pride, parade, celebration  ","['rainbow flag', 'lion pride', 'parade', 'celebration']"
+problem,"word: problem
+properties: traffic jam, math equation, family argument, software glitch","['traffic jam', 'math equation', 'family argument', 'software glitch']"
+prohibition,"word: prohibition  
+properties: speakeasy, bootleg, temperance, moonshine","['speakeasy', 'bootleg', 'temperance', 'moonshine']"
+promise,"word: promise  
+properties: handshake, wedding, contract, deadline","['handshake', 'wedding', 'contract', 'deadline']"
+proof,"word: proof  
+properties: magic trick, courtroom drama, DNA analysis, math theorem","['magic trick', 'courtroom drama', 'DNA analysis', 'math theorem']"
+proposal,"word: proposal  
+properties: engagement, pitch, grant, ring","['engagement', 'pitch', 'grant', 'ring']"
+prosperity,"word: prosperity  
+properties: summer festival, skyscraper skyline, family reunion, savings account grow","['summer festival', 'skyscraper skyline', 'family reunion', 'savings account grow']"
+protection,"word: protection  
+properties: shield, shelter, insurance, safety net","['shield', 'shelter', 'insurance', 'safety net']"
+protest,"word: protest  
+properties: human chain, chant, civil disobedience, digital meme","['human chain', 'chant', 'civil disobedience', 'digital meme']"
+provocation,"word: provocation  
+properties: sparring, anger, debate, tension","['sparring', 'anger', 'debate', 'tension']"
+punishment,"word: punishment  
+properties: courtroom, guilt, lesson, consequence","['courtroom', 'guilt', 'lesson', 'consequence']"
+quality,"word: quality  
+properties: time, control, life, assurance","['time', 'control', 'life', 'assurance']"
+quantity,"word: quantity  
+properties: calculator screen, baking recipe, emergency supply, science experiment","['calculator screen', 'baking recipe', 'emergency supply', 'science experiment']"
+rage,"word: rage  
+properties: fire, fists, thunder, adrenaline","['fire', 'fists', 'thunder', 'adrenaline']"
+realization,"word: realization
+properties: coffee shop, math worksheet, graduation ceremony, new career jump","['coffee shop', 'math worksheet', 'graduation ceremony', 'new career jump']"
+reassurance,"word: reassurance  
+properties: handshake, checklist, warm coffee, cat purr","['handshake', 'checklist', 'warm coffee', 'cat purr']"
+recommendation,"word: recommendation
+properties: movie, restaurant, résumé, broker","['movie', 'restaurant', 'résumé', 'broker']"
+recovery,"word: recovery  
+properties: rainbow, first streak of sunlight, hand on shoulder, crisp air after rain","['rainbow', 'first streak of sunlight', 'hand on shoulder', 'crisp air after rain']"
+regard,"word: regard  
+properties: email_greeting, legal_term, thoughtful_contemplation, nostalgic_pilgrimage","['email_greeting', 'legal_term', 'thoughtful_contemplation', 'nostalgic_pilgrimage']"
+regret,"word: regret
+properties: missed sunrise, unopened invitation, stale coffee, silent phone call","['missed sunrise', 'unopened invitation', 'stale coffee', 'silent phone call']"
+relief,"word: relief
+properties: exhale, laughter, sunrise, applause","['exhale', 'laughter', 'sunrise', 'applause']"
+remorse,"word: remorse  
+properties: apology letter, mindful pause, righting missteps, learning from mistakes","['apology letter', 'mindful pause', 'righting missteps', 'learning from mistakes']"
+requirement,"word: requirement  
+properties: construction permit, job qualification, safety protocol, dietary restriction","['construction permit', 'job qualification', 'safety protocol', 'dietary restriction']"
+resemblance,"word: resemblance  
+properties: mirror, reflection, sibling, DNA","['mirror', 'reflection', 'sibling', 'DNA']"
+resistance,"word: resistance
+properties: resistor, civil rights march, immune response, resistance band","['resistor', 'civil rights march', 'immune response', 'resistance band']"
+resolution,"word: resolution  
+properties: new year, pixels, parliament, peace","['new year', 'pixels', 'parliament', 'peace']"
+respect,"word: respect
+properties: mentor, bow, salute, boundary","['mentor', 'bow', 'salute', 'boundary']"
+responsibility,"word: responsibility  
+properties: nurturing a child, managing a budget, safeguarding data, coordinating a community event","['nurturing a child', 'managing a budget', 'safeguarding data', 'coordinating a community event']"
+retaliation,"word: retaliation  
+properties: Cold War standoff, Facebook thread dispute, spy‑film plot, corporate merger tug‑of‑war","['Cold War standoff', 'Facebook thread dispute', 'spy‑film plot', 'corporate merger tug‑of‑war']"
+revenge,"word: revenge  
+properties: betrayal, revenge movie, blood oath, cycle","['betrayal', 'revenge movie', 'blood oath', 'cycle']"
+revolution,"word: revolution
+properties: barricades, gear, spin, thunder","['barricades', 'gear', 'spin', 'thunder']"
+risk,"word: risk  
+properties: stock, cliff, dragon, trial","['stock', 'cliff', 'dragon', 'trial']"
+ritual,"word: ritual
+properties: coffee, family dinner, morning walk, bedtime reading","['coffee', 'family dinner', 'morning walk', 'bedtime reading']"
+romantic,"word: romantic  
+properties: candlelit dinner, stargazing, handwritten letter, surprise getaway","['candlelit dinner', 'stargazing', 'handwritten letter', 'surprise getaway']"
+safety,"word: safety  
+properties: fire drill, seatbelt, lifeguard, child‑proofing","['fire drill', 'seatbelt', 'lifeguard', 'child‑proofing']"
+satisfaction,"word: satisfaction  
+properties: applause, cheering at a marathon finish, savoring the last bite of a pizza, a quiet moment after a long hike  ","['applause', 'cheering at a marathon finish', 'savoring the last bite of a pizza', 'a quiet moment after a long hike']"
+scheme,"word: scheme  
+properties: conspiracy, puzzle, fraud, mind‑games","['conspiracy', 'puzzle', 'fraud', 'mind‑games']"
+self-dependence,"word: self-dependence  
+properties: solo camping, budgeting, home cooking, self-teaching","['solo camping', 'budgeting', 'home cooking', 'self-teaching']"
+sensation,"word: sensation  
+properties: summer breeze, electric buzz, heart racing, first snow","['summer breeze', 'electric buzz', 'heart racing', 'first snow']"
+sensitivity,"word: sensitivity  
+properties: hearing, touch, allergy, sensor","['hearing', 'touch', 'allergy', 'sensor']"
+shame,"word: shame
+properties: crimson cheeks, hushed silence, glancing away, whispered apology","['crimson cheeks', 'hushed silence', 'glancing away', 'whispered apology']"
+shyness,"word: shyness
+properties: eye_contact_avoidance, quiet_voice, folded_hands, slow_reply","['eye_contact_avoidance', 'quiet_voice', 'folded_hands', 'slow_reply']"
+skill,"word: skill  
+properties: practice, workshop, focus, precision","['practice', 'workshop', 'focus', 'precision']"
+slapstick,"word: slapstick  
+properties: pie in the face, banana peel slip, clown shoes, pratfall","['pie in the face', 'banana peel slip', 'clown shoes', 'pratfall']"
+solitude,"word: solitude  
+properties: quiet forest, candlelit room, mountain peak, starry night","['quiet forest', 'candlelit room', 'mountain peak', 'starry night']"
+stimulus,"word: stimulus  
+properties: caffeine, sunrise, click, heartbeat","['caffeine', 'sunrise', 'click', 'heartbeat']"
+stress,"word: stress  
+properties: deadline, coffee, meeting, restless","['deadline', 'coffee', 'meeting', 'restless']"
+success,"word: success  
+properties: promotion, graduation, marathon, celebration","['promotion', 'graduation', 'marathon', 'celebration']"
+suffering,"word: suffering  
+properties: prison, thunderstorm, candle, solitude","['prison', 'thunderstorm', 'candle', 'solitude']"
+support,"word: support  
+properties: bridge, foundation, friendship, scaffold","['bridge', 'foundation', 'friendship', 'scaffold']"
+surprise,"word: surprise  
+properties: birthday, party, gift, secret","['birthday', 'party', 'gift', 'secret']"
+talent,"word: talent
+properties: applause, workshop, backstage, startup","['applause', 'workshop', 'backstage', 'startup']"
+task,"word: task  
+properties: deadline, coffee, checklist, collaboration","['deadline', 'coffee', 'checklist', 'collaboration']"
+terrorism,"word: terrorism  
+properties: bombing, extremism, security, panic","['bombing', 'extremism', 'security', 'panic']"
+theory,"word: theory
+properties: gravity, black holes, chalkboard, evolution","['gravity', 'black holes', 'chalkboard', 'evolution']"
+thirst,"word: thirst  
+properties: sand dunes, dripping sweat, ice‑cold lemonade, desert camel","['sand dunes', 'dripping sweat', 'ice‑cold lemonade', 'desert camel']"
+thought,"word: thought  
+properties: coffee cup, silence, blank page, window view","['coffee cup', 'silence', 'blank page', 'window view']"
+threat,"word: threat
+properties: military drone, deadly pandemic, cyber weapons, political bluff","['military drone', 'deadly pandemic', 'cyber weapons', 'political bluff']"
+tradition,"word: tradition
+properties: family gathering, annual holiday, ancestral recipes, community rituals","['family gathering', 'annual holiday', 'ancestral recipes', 'community rituals']"
+trend,"word: trend
+properties: runway, stock market, viral hashtag, seasonal cycle","['runway', 'stock market', 'viral hashtag', 'seasonal cycle']"
+trust,"word: trust  
+properties: handshake, confidentiality, teamwork, safety","['handshake', 'confidentiality', 'teamwork', 'safety']"
+value,"word: value
+properties: coding variable, investment return, moral principle, family tradition","['coding variable', 'investment return', 'moral principle', 'family tradition']"
+vanity,"word: vanity  
+properties: mirror, makeup, selfies, dressing","['mirror', 'makeup', 'selfies', 'dressing']"
+victory,"word: victory  
+properties: trophy, confetti, anthem, whistle","['trophy', 'confetti', 'anthem', 'whistle']"
+view,"word: view
+properties: cliff, cinema, skyline, mental projection","['cliff', 'cinema', 'skyline', 'mental projection']"
+violation,"word: violation  
+properties: speeding ticket, police arrest, insurance penalty, court judgment","['speeding ticket', 'police arrest', 'insurance penalty', 'court judgment']"
+violence,"word: violence  
+properties: police sirens, protest riots, domestic abuse, armed conflict","['police sirens', 'protest riots', 'domestic abuse', 'armed conflict']"
+war,"word: war
+properties: trenches, bombers, soldiers, peace talks","['trenches', 'bombers', 'soldiers', 'peace talks']"
+warning,"word: warning  
+properties: traffic light, earthquake, fire alarm, caution tape","['traffic light', 'earthquake', 'fire alarm', 'caution tape']"
+weakness,"word: weakness  
+properties: rusted hinge, overstretched rubber band, drooping curtain, wet paper","['rusted hinge', 'overstretched rubber band', 'drooping curtain', 'wet paper']"
+wealth,"word: wealth
+properties: investment, inheritance, retirement, jobs","['investment', 'inheritance', 'retirement', 'jobs']"
+welfare,"word: welfare  
+properties: food stamps, public housing, child care, health insurance coverage","['food stamps', 'public housing', 'child care', 'health insurance coverage']"
+will,"word: will  
+properties: inheritance, testament, family heirlooms, future decisions  ","['inheritance', 'testament', 'family heirlooms', 'future decisions']"
+willingness,"word: willingness  
+properties: volunteering, adaptability, curiosity, partnership","['volunteering', 'adaptability', 'curiosity', 'partnership']"
+wish,"word: wish  
+properties: candle, genie, lottery, moon","['candle', 'genie', 'lottery', 'moon']"
+wit,"word: wit  
+properties: quip, pun, comeback, sarcasm","['quip', 'pun', 'comeback', 'sarcasm']"
+wonder,"word: wonder
+properties: stars, mystery, moonlit, discovery","['stars', 'mystery', 'moonlit', 'discovery']"
+work,"word: work  
+properties: meeting, deadline, coffee, overtime","['meeting', 'deadline', 'coffee', 'overtime']"
+worry,"word: worry  
+properties: deadlines, caffeine, cat naps, rainstorm","['deadlines', 'caffeine', 'cat naps', 'rainstorm']"
+stability,"word: stability  
+properties: equilibrium, safety net, long‑term planning, steady growth","['equilibrium', 'safety net', 'long‑term planning', 'steady growth']"
+selection,"word: selection  
+properties: lottery ticket, menu options, playlist choice, hiring process","['lottery ticket', 'menu options', 'playlist choice', 'hiring process']"

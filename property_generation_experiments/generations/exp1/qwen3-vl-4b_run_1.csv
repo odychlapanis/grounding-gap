@@ -1,0 +1,587 @@
+word,response,properties
+ability,"word: ability
+properties: climb, create, adapt, solve","['climb', 'create', 'adapt', 'solve']"
+accusation,"word: accusation
+properties: courtroom, silence, betrayal, shame","['courtroom', 'silence', 'betrayal', 'shame']"
+achievement,"word: achievement
+properties: trophy, new skill, proud parent, milestone","['trophy', 'new skill', 'proud parent', 'milestone']"
+activity,"word: activity
+properties: gym, concert, garden, puzzle","['gym', 'concert', 'garden', 'puzzle']"
+addiction,"word: addiction
+properties: craving, dependency, escape, numbness","['craving', 'dependency', 'escape', 'numbness']"
+admiration,"word: admiration
+properties: award, mentor, applause, gaze","['award', 'mentor', 'applause', 'gaze']"
+advantage,"word: advantage
+properties: leap, edge, win, boost","['leap', 'edge', 'win', 'boost']"
+adventure,"word: adventure
+properties: mountains, unknown paths, campfire, daring choices","['mountains', 'unknown paths', 'campfire', 'daring choices']"
+advice,"word: advice
+properties: mentor, roadmap, quiet moment, decision tree","['mentor', 'roadmap', 'quiet moment', 'decision tree']"
+agony,"word: agony
+properties: silent scream, shattered glass, drowning in silence, broken clock","['silent scream', 'shattered glass', 'drowning in silence', 'broken clock']"
+agreement,"word: agreement
+properties: treaty, courtroom, handshake, compromise","['treaty', 'courtroom', 'handshake', 'compromise']"
+amazement,"word: amazement
+properties: thunderous applause, frozen bird, cosmic whisper, shattered glass","['thunderous applause', 'frozen bird', 'cosmic whisper', 'shattered glass']"
+ambition,"word: ambition
+properties: climb, midnight study, race against time, rise above","['climb', 'midnight study', 'race against time', 'rise above']"
+ambush,"word: ambush
+properties: shadow, trap, surprise, danger","['shadow', 'trap', 'surprise', 'danger']"
+amusement,"word: amusement
+properties: clown, circus, laughter, arcade","['clown', 'circus', 'laughter', 'arcade']"
+anger,"word: anger
+properties: slammed door, shouted at colleague, clenched fists, red face","['slammed door', 'shouted at colleague', 'clenched fists', 'red face']"
+anxiety,"word: anxiety
+properties: racing heart, tangled thoughts, trembling hands, avoidance behavior","['racing heart', 'tangled thoughts', 'trembling hands', 'avoidance behavior']"
+apology,"word: apology
+properties: regret, silence, tears, forgiveness","['regret', 'silence', 'tears', 'forgiveness']"
+appearance,"word: appearance
+properties: mirror, costume, crowd, shadow","['mirror', 'costume', 'crowd', 'shadow']"
+appetite,"word: appetite
+properties: crunch, spice, hunger, dessert","['crunch', 'spice', 'hunger', 'dessert']"
+application,"word: application
+properties: mobile setup, software bug, user interface, cloud storage","['mobile setup', 'software bug', 'user interface', 'cloud storage']"
+aptitude,"word: aptitude
+properties: mastery, problem-solving, natural talent, rapid learning","['mastery', 'problem-solving', 'natural talent', 'rapid learning']"
+argument,"word: argument
+properties: heated exchange, broken silence, raised voices, spilled coffee","['heated exchange', 'broken silence', 'raised voices', 'spilled coffee']"
+art,"word: art
+properties: canvas, brushstrokes, silence, rebellion","['canvas', 'brushstrokes', 'silence', 'rebellion']"
+aspect,"word: aspect
+properties: shadow, angle, texture, flavor","['shadow', 'angle', 'texture', 'flavor']"
+assassination,"word: assassination
+properties: silenced, fear, gun, shadow","['silenced', 'fear', 'gun', 'shadow']"
+assumption,"word: assumption
+properties: misunderstanding, bias, prediction, leap","['misunderstanding', 'bias', 'prediction', 'leap']"
+astonishment,"word: astonishment
+properties: lightning strike, sudden silence, dropped plate, startled cat","['lightning strike', 'sudden silence', 'dropped plate', 'startled cat']"
+attack,"word: attack
+properties: sabotage, rebellion, defense, chaos","['sabotage', 'rebellion', 'defense', 'chaos']"
+attention,"word: attention
+properties: classroom, stage, whisper, focus","['classroom', 'stage', 'whisper', 'focus']"
+attraction,"word: attraction
+properties: magnet, pull, sparkle, curve","['magnet', 'pull', 'sparkle', 'curve']"
+beauty,"word: beauty
+properties: sunrise, still water, silent song, open sky","['sunrise', 'still water', 'silent song', 'open sky']"
+being,"word: being
+properties: quiet, thought, presence, stillness","['quiet', 'thought', 'presence', 'stillness']"
+betrayal,"word: betrayal
+properties: shattered trust, whispered secrets, silent tears, broken vows","['shattered trust', 'whispered secrets', 'silent tears', 'broken vows']"
+blackmail,"word: blackmail
+properties: threat, betrayal, silence, fear","['threat', 'betrayal', 'silence', 'fear']"
+boredom,"word: boredom
+properties: idle hands, ticking clock, empty screen, stale air","['idle hands', 'ticking clock', 'empty screen', 'stale air']"
+boycott,"word: boycott
+properties: protest, silence, exclusion, resistance","['protest', 'silence', 'exclusion', 'resistance']"
+bravery,"word: bravery
+properties: battle cry, solo climb, standing up, storm surge","['battle cry', 'solo climb', 'standing up', 'storm surge']"
+career,"word: career
+properties: salary, mentor, growth, pressure","['salary', 'mentor', 'growth', 'pressure']"
+carefulness,"word: carefulness
+properties: patience, precision, humility, quiet determination","['patience', 'precision', 'humility', 'quiet determination']"
+catastrophe,"word: catastrophe
+properties: collapsed bridge, frozen lake, nuclear blast, silent scream","['collapsed bridge', 'frozen lake', 'nuclear blast', 'silent scream']"
+caution,"word: caution
+properties: traffic lights, mountain trail, speeding car, slippery floor","['traffic lights', 'mountain trail', 'speeding car', 'slippery floor']"
+challenge,"word: challenge
+properties: mountain peak, coding bug, personal growth, race finish line","['mountain peak', 'coding bug', 'personal growth', 'race finish line']"
+chaos,"word: chaos
+properties: crumbling tower, tangled wires, frantic birds, silent storm","['crumbling tower', 'tangled wires', 'frantic birds', 'silent storm']"
+character,"word: character
+properties: honesty, resilience, mystery, leadership","['honesty', 'resilience', 'mystery', 'leadership']"
+charm,"word: charm
+properties: smile, magic, attraction, whisper","['smile', 'magic', 'attraction', 'whisper']"
+comfort,"word: comfort
+properties: warm blanket, quiet corner, familiar voice, soft music","['warm blanket', 'quiet corner', 'familiar voice', 'soft music']"
+commitment,"word: commitment
+properties: vow, loyalty, promise, dedication","['vow', 'loyalty', 'promise', 'dedication']"
+comparison,"word: comparison
+properties: scale, rivalry, imbalance, judgment","['scale', 'rivalry', 'imbalance', 'judgment']"
+compassion,"word: compassion
+properties: shelter, silence, healing, rain","['shelter', 'silence', 'healing', 'rain']"
+competence,"word: competence
+properties: flawless execution, trust in team, quiet confidence, seamless workflow","['flawless execution', 'trust in team', 'quiet confidence', 'seamless workflow']"
+compromise,"word: compromise
+properties: negotiation, trade-offs, mutual agreement, sacrifice","['negotiation', 'trade-offs', 'mutual agreement', 'sacrifice']"
+compulsion,"word: compulsion
+properties: binge-watching, hand-washing, checking phones, nail-biting","['binge-watching', 'hand-washing', 'checking phones', 'nail-biting']"
+confession,"word: confession
+properties: tears, silence, trust, redemption","['tears', 'silence', 'trust', 'redemption']"
+conflict,"word: conflict
+properties: war, negotiation, betrayal, rebellion","['war', 'negotiation', 'betrayal', 'rebellion']"
+consideration,"word: consideration
+properties: patience, silence, balance, trust","['patience', 'silence', 'balance', 'trust']"
+consolation,"word: consolation
+properties: rain, book, silence, fire","['rain', 'book', 'silence', 'fire']"
+contempt,"word: contempt
+properties: silent stare, broken vase, cold shoulder, whispered curse","['silent stare', 'broken vase', 'cold shoulder', 'whispered curse']"
+convention,"word: convention
+properties: crowd, booth, agenda, networking","['crowd', 'booth', 'agenda', 'networking']"
+cooperation,"word: cooperation
+properties: teamwork, shared goals, mutual trust, collaborative problem-solving","['teamwork', 'shared goals', 'mutual trust', 'collaborative problem-solving']"
+courage,"word: courage
+properties: fire, mountain, whisper, leap","['fire', 'mountain', 'whisper', 'leap']"
+creativity,"word: creativity
+properties: puzzle, paintbrush, unexpected song, wild idea","['puzzle', 'paintbrush', 'unexpected song', 'wild idea']"
+crime,"word: crime
+properties: theft, betrayal, punishment, chaos","['theft', 'betrayal', 'punishment', 'chaos']"
+criticism,"word: criticism
+properties: rebuttal, reflection, growth, silence","['rebuttal', 'reflection', 'growth', 'silence']"
+cruelty,"word: cruelty
+properties: broken trust, silent screams, shattered silence, cold steel","['broken trust', 'silent screams', 'shattered silence', 'cold steel']"
+culture,"word: culture
+properties: festivals, street food, ancient ruins, music bands","['festivals', 'street food', 'ancient ruins', 'music bands']"
+curiosity,"word: curiosity
+properties: exploring caves, asking questions, discovering new recipes, solving puzzles","['exploring caves', 'asking questions', 'discovering new recipes', 'solving puzzles']"
+custom,"word: custom
+properties: tailor, bakery, festival, engraving","['tailor', 'bakery', 'festival', 'engraving']"
+danger,"word: danger
+properties: wildfire, haunted forest, broken bridge, collapsing elevator","['wildfire', 'haunted forest', 'broken bridge', 'collapsing elevator']"
+death,"word: death
+properties: silence, grave, legacy, farewell","['silence', 'grave', 'legacy', 'farewell']"
+decision,"word: decision
+properties: crossroads, weight, clarity, rebellion","['crossroads', 'weight', 'clarity', 'rebellion']"
+demand,"word: demand
+properties: urgency, protest, negotiation, hunger","['urgency', 'protest', 'negotiation', 'hunger']"
+desire,"word: desire
+properties: hunger, flight, creation, silence","['hunger', 'flight', 'creation', 'silence']"
+desperation,"word: desperation
+properties: midnight run, broken chain, silent scream, frozen river","['midnight run', 'broken chain', 'silent scream', 'frozen river']"
+destruction,"word: destruction
+properties: rubble, silence, fear, chaos","['rubble', 'silence', 'fear', 'chaos']"
+detection,"word: detection
+properties: radar, shadow, alarm, whisper","['radar', 'shadow', 'alarm', 'whisper']"
+dictatorship,"word: dictatorship
+properties: forced compliance, silenced dissent, centralized control, public surveillance","['forced compliance', 'silenced dissent', 'centralized control', 'public surveillance']"
+difference,"word: difference
+properties: color, voice, rhythm, choice","['color', 'voice', 'rhythm', 'choice']"
+difficulty,"word: difficulty
+properties: climb, maze, storm, bridge","['climb', 'maze', 'storm', 'bridge']"
+dignity,"word: dignity
+properties: quiet resolve, standing tall, unwavering gaze, humble strength","['quiet resolve', 'standing tall', 'unwavering gaze', 'humble strength']"
+diligence,"word: diligence
+properties: punctuality, perseverance, quiet dedication, long-term planning","['punctuality', 'perseverance', 'quiet dedication', 'long-term planning']"
+disadvantage,"word: disadvantage
+properties: financial strain, missed opportunity, social isolation, reduced confidence","['financial strain', 'missed opportunity', 'social isolation', 'reduced confidence']"
+disappointment,"word: disappointment
+properties: failed exam, broken promise, empty seat, quiet rain","['failed exam', 'broken promise', 'empty seat', 'quiet rain']"
+discovery,"word: discovery
+properties: treasure, mystery, revelation, map","['treasure', 'mystery', 'revelation', 'map']"
+disgust,"word: disgust
+properties: spoiled food, sneeze, foul smell, dirty hands","['spoiled food', 'sneeze', 'foul smell', 'dirty hands']"
+dismay,"word: dismay
+properties: storm, silence, failure, shadow","['storm', 'silence', 'failure', 'shadow']"
+dispute,"word: dispute
+properties: courtroom, protest, negotiation, argument","['courtroom', 'protest', 'negotiation', 'argument']"
+distance,"word: distance
+properties: starlight, map, silence, echo","['starlight', 'map', 'silence', 'echo']"
+distraction,"word: distraction
+properties: loud music, scrolling phone, spilled coffee, chaotic crowd","['loud music', 'scrolling phone', 'spilled coffee', 'chaotic crowd']"
+diversity,"word: diversity
+properties: mosaic, marketplace, ecosystem, rainbow","['mosaic', 'marketplace', 'ecosystem', 'rainbow']"
+doubt,"word: doubt
+properties: hesitation, uncertainty, question, doubt-filled silence","['hesitation', 'uncertainty', 'question', 'doubt-filled silence']"
+downfall,"word: downfall
+properties: collapse, ruin, surrender, eclipse","['collapse', 'ruin', 'surrender', 'eclipse']"
+dream,"word: dream
+properties: flying, secret, whisper, forgotten","['flying', 'secret', 'whisper', 'forgotten']"
+duty,"word: duty
+properties: alarm clock, military uniform, volunteer work, courtroom oath","['alarm clock', 'military uniform', 'volunteer work', 'courtroom oath']"
+eagerness,"word: eagerness
+properties: sprint, discovery, chase, climb","['sprint', 'discovery', 'chase', 'climb']"
+effort,"word: effort
+properties: marathon, puzzle, climb, storm","['marathon', 'puzzle', 'climb', 'storm']"
+elegance,"word: elegance
+properties: poised dance, silent grace, refined attire, moonlit garden","['poised dance', 'silent grace', 'refined attire', 'moonlit garden']"
+emotion,"word: emotion
+properties: storm, silence, song, trust","['storm', 'silence', 'song', 'trust']"
+enchantment,"word: enchantment
+properties: moonlit forest, whispered spells, glowing lanterns, forgotten melody","['moonlit forest', 'whispered spells', 'glowing lanterns', 'forgotten melody']"
+enthusiasm,"word: enthusiasm
+properties: roaring crowd, rocket launch, dancing at midnight, competitive sprint","['roaring crowd', 'rocket launch', 'dancing at midnight', 'competitive sprint']"
+envy,"word: envy
+properties: jealous glance, silent comparison, hollow smile, stolen glance","['jealous glance', 'silent comparison', 'hollow smile', 'stolen glance']"
+error,"word: error
+properties: glitch, crash, misstep, fix","['glitch', 'crash', 'misstep', 'fix']"
+event,"word: event
+properties: fireworks, auction, parade, concert","['fireworks', 'auction', 'parade', 'concert']"
+excitement,"word: excitement
+properties: racing heartbeat, crowd cheers, adrenaline rush, spontaneous dance","['racing heartbeat', 'crowd cheers', 'adrenaline rush', 'spontaneous dance']"
+expectation,"word: expectation
+properties: pressure, surprise, growth, deadline","['pressure', 'surprise', 'growth', 'deadline']"
+experience,"word: experience
+properties: mountain peak, foreign cuisine, silent movie, midnight rain","['mountain peak', 'foreign cuisine', 'silent movie', 'midnight rain']"
+explanation,"word: explanation
+properties: puzzle, debate, light, confusion","['puzzle', 'debate', 'light', 'confusion']"
+exploitation,"word: exploitation
+properties: corporate greed, labor rights, resource theft, systemic inequality","['corporate greed', 'labor rights', 'resource theft', 'systemic inequality']"
+faithfulness,"word: faithfulness
+properties: loyalty, trust, commitment, devotion","['loyalty', 'trust', 'commitment', 'devotion']"
+fantasy,"word: fantasy
+properties: magic castle, enchanted forest, talking animals, time-traveling train","['magic castle', 'enchanted forest', 'talking animals', 'time-traveling train']"
+fate,"word: fate
+properties: lottery, ghost, destiny, storm","['lottery', 'ghost', 'destiny', 'storm']"
+fear,"word: fear
+properties: thunderstorm, dark hallway, falling leaf, trapped elevator","['thunderstorm', 'dark hallway', 'falling leaf', 'trapped elevator']"
+fight,"word: fight
+properties: claws, battlefield, silence, sparks","['claws', 'battlefield', 'silence', 'sparks']"
+fitness,"word: fitness
+properties: gym, stamina, healthy, routine","['gym', 'stamina', 'healthy', 'routine']"
+flexibility,"word: flexibility
+properties: dance, spine, adapt, bend","['dance', 'spine', 'adapt', 'bend']"
+force,"word: force
+properties: punch, wind, push, snap","['punch', 'wind', 'push', 'snap']"
+forgiveness,"word: forgiveness
+properties: silent understanding, broken trust healing, second chance grace, emotional release","['silent understanding', 'broken trust healing', 'second chance grace', 'emotional release']"
+freedom,"word: freedom
+properties: flight, silence, open road, rebellion","['flight', 'silence', 'open road', 'rebellion']"
+fright,"word: fright
+properties: thunderstorm, shadowy alley, sudden silence, trembling hands","['thunderstorm', 'shadowy alley', 'sudden silence', 'trembling hands']"
+frustration,"word: frustration
+properties: tangled wires, broken clock, crowded elevator, stuck elevator","['tangled wires', 'broken clock', 'crowded elevator', 'stuck elevator']"
+fun,"word: fun
+properties: laughter, games, music, adventure","['laughter', 'games', 'music', 'adventure']"
+fury,"word: fury
+properties: roaring storm, broken glass, clenched fists, screaming crowd","['roaring storm', 'broken glass', 'clenched fists', 'screaming crowd']"
+future,"word: future
+properties: innovation, uncertainty, growth, legacy","['innovation', 'uncertainty', 'growth', 'legacy']"
+genius,"word: genius
+properties: breakthrough, chaos, mentor, silence","['breakthrough', 'chaos', 'mentor', 'silence']"
+glory,"word: glory
+properties: triumph, fire, crown, anthem","['triumph', 'fire', 'crown', 'anthem']"
+grace,"word: grace
+properties: ballet, waterfall, whisper, cathedral","['ballet', 'waterfall', 'whisper', 'cathedral']"
+gratitude,"word: gratitude
+properties: rain, thank-you note, quiet moment, warm tea","['rain', 'thank-you note', 'quiet moment', 'warm tea']"
+greed,"word: greed
+properties: gold, power, betrayal, famine","['gold', 'power', 'betrayal', 'famine']"
+guess,"word: guess
+properties: riddle, chance, mystery, game","['riddle', 'chance', 'mystery', 'game']"
+habit,"word: habit
+properties: routine, discipline, repetition, instinct","['routine', 'discipline', 'repetition', 'instinct']"
+happiness,"word: happiness
+properties: laughter, sunset, warm hug, first snowfall","['laughter', 'sunset', 'warm hug', 'first snowfall']"
+hate,"word: hate
+properties: venom, silence, anger, ruin","['venom', 'silence', 'anger', 'ruin']"
+help,"word: help
+properties: rescue, shelter, mentor, guide","['rescue', 'shelter', 'mentor', 'guide']"
+hint,"word: hint
+properties: whisper, puzzle, tease, clue","['whisper', 'puzzle', 'tease', 'clue']"
+home,"word: home
+properties: warmth, quiet, belonging, comfort","['warmth', 'quiet', 'belonging', 'comfort']"
+honor,"word: honor
+properties: sacrifice, legacy, truth, duty","['sacrifice', 'legacy', 'truth', 'duty']"
+hope,"word: hope
+properties: sunrise, escape, courage, miracle","['sunrise', 'escape', 'courage', 'miracle']"
+horror,"word: horror
+properties: ghosts, silent screams, haunted forest, bloodied dagger","['ghosts', 'silent screams', 'haunted forest', 'bloodied dagger']"
+humor,"word: humor
+properties: laughter, punchline, awkward silence, comic timing","['laughter', 'punchline', 'awkward silence', 'comic timing']"
+hunger,"word: hunger
+properties: scavenging, midnight feast, dry throat, trembling hands","['scavenging', 'midnight feast', 'dry throat', 'trembling hands']"
+hurry,"word: hurry
+properties: rush hour, sprint, deadline, panic","['rush hour', 'sprint', 'deadline', 'panic']"
+idea,"word: idea
+properties: invention, rebellion, revolution, blueprint","['invention', 'rebellion', 'revolution', 'blueprint']"
+ideal,"word: ideal
+properties: perfect balance, flawless execution, harmonious blend, timeless elegance","['perfect balance', 'flawless execution', 'harmonious blend', 'timeless elegance']"
+illusion,"word: illusion
+properties: mirage, dream, deception, vanish","['mirage', 'dream', 'deception', 'vanish']"
+impression,"word: impression
+properties: shadow, first meeting, mirror, whisper","['shadow', 'first meeting', 'mirror', 'whisper']"
+incentive,"word: incentive
+properties: motivation, achievement, reward, challenge","['motivation', 'achievement', 'reward', 'challenge']"
+independence,"word: independence
+properties: flight, solitude, self-rule, rebellion","['flight', 'solitude', 'self-rule', 'rebellion']"
+indifference,"word: indifference
+properties: silence, ignored text, distant gaze, cold coffee","['silence', 'ignored text', 'distant gaze', 'cold coffee']"
+influence,"word: influence
+properties: mentorship, societal shift, artistic evolution, behavioral change","['mentorship', 'societal shift', 'artistic evolution', 'behavioral change']"
+insanity,"word: insanity
+properties: chaotic dance, broken clocks, wild laughter, abandoned theater","['chaotic dance', 'broken clocks', 'wild laughter', 'abandoned theater']"
+insight,"word: insight
+properties: puzzle, whisper, map, dawn","['puzzle', 'whisper', 'map', 'dawn']"
+insult,"word: insult
+properties: anger, silence, retreat, shame","['anger', 'silence', 'retreat', 'shame']"
+insurrection,"word: insurrection
+properties: protest, rebellion, chaos, defiance","['protest', 'rebellion', 'chaos', 'defiance']"
+intention,"word: intention
+properties: roadmap, silence, rebellion, compass","['roadmap', 'silence', 'rebellion', 'compass']"
+interest,"word: interest
+properties: book, debate, spark, puzzle","['book', 'debate', 'spark', 'puzzle']"
+invention,"word: invention
+properties: mechanical clock, flying machine, smartphone, robotic arm","['mechanical clock', 'flying machine', 'smartphone', 'robotic arm']"
+jealousy,"word: jealousy
+properties: stolen glance, silent rivalry, crowded room, broken trust","['stolen glance', 'silent rivalry', 'crowded room', 'broken trust']"
+joy,"word: joy
+properties: laughter, dancing, rainbows, butterflies","['laughter', 'dancing', 'rainbows', 'butterflies']"
+judgement,"word: judgement
+properties: courtroom, silence, betrayal, scale","['courtroom', 'silence', 'betrayal', 'scale']"
+justice,"word: justice
+properties: courtroom, equal rights, fair trial, moral clarity","['courtroom', 'equal rights', 'fair trial', 'moral clarity']"
+justification,"word: justification
+properties: courtroom, apology, proof, rebellion","['courtroom', 'apology', 'proof', 'rebellion']"
+kindness,"word: kindness
+properties: open door, silent help, shared meal, gentle touch","['open door', 'silent help', 'shared meal', 'gentle touch']"
+knowledge,"word: knowledge
+properties: library, puzzle, enlightenment, mentor","['library', 'puzzle', 'enlightenment', 'mentor']"
+love,"word: love
+properties: wildfire, silent phone call, abandoned garden, handwritten letter","['wildfire', 'silent phone call', 'abandoned garden', 'handwritten letter']"
+luck,"word: luck
+properties: gamble, surprise, win, accident","['gamble', 'surprise', 'win', 'accident']"
+lust,"word: lust
+properties: midnight dance, forbidden desire, primal urge, heated gaze","['midnight dance', 'forbidden desire', 'primal urge', 'heated gaze']"
+luxury,"word: luxury
+properties: opulent palace, private jet, bespoke tailor, champagne toast","['opulent palace', 'private jet', 'bespoke tailor', 'champagne toast']"
+magic,"word: magic
+properties: illusion, enchanted forest, whispered secrets, floating lanterns","['illusion', 'enchanted forest', 'whispered secrets', 'floating lanterns']"
+manipulation,"word: manipulation
+properties: deceit, control, coercion, trickery","['deceit', 'control', 'coercion', 'trickery']"
+manners,"word: manners
+properties: polite wait, handshake, quiet talk, respectful gaze","['polite wait', 'handshake', 'quiet talk', 'respectful gaze']"
+matter,"word: matter
+properties: gravity, decision, dust, puzzle","['gravity', 'decision', 'dust', 'puzzle']"
+meanness,"word: meanness
+properties: betrayal, coldness, isolation, silence","['betrayal', 'coldness', 'isolation', 'silence']"
+memory,"word: memory
+properties: photograph, echo, dream, archive","['photograph', 'echo', 'dream', 'archive']"
+menace,"word: menace
+properties: shadow, storm, threat, silence","['shadow', 'storm', 'threat', 'silence']"
+mercy,"word: mercy
+properties: rain, quiet, release, healing","['rain', 'quiet', 'release', 'healing']"
+miracle,"word: miracle
+properties: lightning, birth, healing, unexpected gift","['lightning', 'birth', 'healing', 'unexpected gift']"
+misdemeanor,"word: misdemeanor
+properties: traffic ticket, minor theft, verbal insult, public disturbance","['traffic ticket', 'minor theft', 'verbal insult', 'public disturbance']"
+misery,"word: misery
+properties: rain, silence, hollow, broken","['rain', 'silence', 'hollow', 'broken']"
+mockery,"word: mockery
+properties: laughter, shame, silence, downfall","['laughter', 'shame', 'silence', 'downfall']"
+model,"word: model
+properties: fashion runway, architectural blueprint, acting performance, scientific equation","['fashion runway', 'architectural blueprint', 'acting performance', 'scientific equation']"
+moment,"word: moment
+properties: clock, memory, pause, storm","['clock', 'memory', 'pause', 'storm']"
+mood,"word: mood
+properties: rain, silence, laughter, storm","['rain', 'silence', 'laughter', 'storm']"
+mourning,"word: mourning
+properties: silence, rain, candles, grief","['silence', 'rain', 'candles', 'grief']"
+need,"word: need
+properties: hunger, silence, rain, repair","['hunger', 'silence', 'rain', 'repair']"
+nervousness,"word: nervousness  
+properties: trembling hands, silent pacing, shallow breathing, fidgeting fingers","['trembling hands', 'silent pacing', 'shallow breathing', 'fidgeting fingers']"
+nightmare,"word: nightmare
+properties: haunted house, broken sleep, whispering shadows, choking silence","['haunted house', 'broken sleep', 'whispering shadows', 'choking silence']"
+notion,"word: notion
+properties: idea, skepticism, belief, intuition","['idea', 'skepticism', 'belief', 'intuition']"
+obedience,"word: obedience
+properties: courtroom, discipline, ritual, loyalty","['courtroom', 'discipline', 'ritual', 'loyalty']"
+objection,"word: objection
+properties: courtroom, protest, refusal, dispute","['courtroom', 'protest', 'refusal', 'dispute']"
+obligation,"word: obligation
+properties: law, debt, duty, silence","['law', 'debt', 'duty', 'silence']"
+observation,"word: observation
+properties: shadow, whisper, lens, pause","['shadow', 'whisper', 'lens', 'pause']"
+occupation,"word: occupation
+properties: bakery, surgeon, farmer, programmer","['bakery', 'surgeon', 'farmer', 'programmer']"
+order,"word: order
+properties: queue, menu, delivery, table","['queue', 'menu', 'delivery', 'table']"
+ostracism,"word: ostracism
+properties: exile, isolation, rejection, silence","['exile', 'isolation', 'rejection', 'silence']"
+overview,"word: overview
+properties: map, summary, chart, timeline","['map', 'summary', 'chart', 'timeline']"
+pain,"word: pain
+properties: broken bone, silent scream, phantom limb, tear-stained pillow","['broken bone', 'silent scream', 'phantom limb', 'tear-stained pillow']"
+panic,"word: panic
+properties: rushing, crowded, silence, trembling","['rushing', 'crowded', 'silence', 'trembling']"
+pardon,"word: pardon
+properties: courtroom, apology, silence, misstep","['courtroom', 'apology', 'silence', 'misstep']"
+passion,"word: passion
+properties: fire, dance, rebellion, breakthrough","['fire', 'dance', 'rebellion', 'breakthrough']"
+past,"word: past
+properties: echo, ghost, memory, regret","['echo', 'ghost', 'memory', 'regret']"
+peace,"word: peace
+properties: quiet library, gentle rain, still pond, calm breath","['quiet library', 'gentle rain', 'still pond', 'calm breath']"
+perception,"word: perception
+properties: mirror, silence, shadow, insight","['mirror', 'silence', 'shadow', 'insight']"
+perfection,"word: perfection
+properties: flawless dance, perfect silence, idealized sunrise, zero mistakes","['flawless dance', 'perfect silence', 'idealized sunrise', 'zero mistakes']"
+performance,"word: performance
+properties: stage lights, audience clapping, mic drop, choreographed dance","['stage lights', 'audience clapping', 'mic drop', 'choreographed dance']"
+perspective,"word: perspective
+properties: mountain peak, courtroom, kaleidoscope, shadowy alley","['mountain peak', 'courtroom', 'kaleidoscope', 'shadowy alley']"
+plan,"word: plan
+properties: calendar, rocket, map, negotiation","['calendar', 'rocket', 'map', 'negotiation']"
+pleasure,"word: pleasure
+properties: laughter, dancing, warm tea, open sky","['laughter', 'dancing', 'warm tea', 'open sky']"
+potential,"word: potential
+properties: climb, breakthrough, transformation, growth","['climb', 'breakthrough', 'transformation', 'growth']"
+poverty,"word: poverty
+properties: cold shelter, hungry child, broken bike, faded coat","['cold shelter', 'hungry child', 'broken bike', 'faded coat']"
+power,"word: power
+properties: engine, storm, control, magnet","['engine', 'storm', 'control', 'magnet']"
+prediction,"word: prediction
+properties: weather report, stock market, election outcome, future event","['weather report', 'stock market', 'election outcome', 'future event']"
+present,"word: present
+properties: gift, surprise, occasion, wrapped","['gift', 'surprise', 'occasion', 'wrapped']"
+pride,"word: pride
+properties: victory, parent, feathers, crown","['victory', 'parent', 'feathers', 'crown']"
+problem,"word: problem
+properties: chaos, silence, puzzle, solution","['chaos', 'silence', 'puzzle', 'solution']"
+prohibition,"word: prohibition
+properties: banned drink, law enforcement, quiet street, underground market","['banned drink', 'law enforcement', 'quiet street', 'underground market']"
+promise,"word: promise
+properties: oath, rain, trust, vow","['oath', 'rain', 'trust', 'vow']"
+proof,"word: proof
+properties: courtroom, document, conviction, evidence","['courtroom', 'document', 'conviction', 'evidence']"
+proposal,"word: proposal
+properties: ring, vows, dance, future","['ring', 'vows', 'dance', 'future']"
+prosperity,"word: prosperity
+properties: harvest, growth, abundance, success","['harvest', 'growth', 'abundance', 'success']"
+protection,"word: protection
+properties: shield, wilderness, calm, fortress","['shield', 'wilderness', 'calm', 'fortress']"
+protest,"word: protest
+properties: rally, chants, banners, justice","['rally', 'chants', 'banners', 'justice']"
+provocation,"word: provocation
+properties: conflict, betrayal, surprise, anger","['conflict', 'betrayal', 'surprise', 'anger']"
+punishment,"word: punishment
+properties: jail, timeout, reprimand, regret","['jail', 'timeout', 'reprimand', 'regret']"
+quality,"word: quality
+properties: craftsmanship, durability, taste, reliability","['craftsmanship', 'durability', 'taste', 'reliability']"
+quantity,"word: quantity
+properties: grocery list, batch cooking, inventory count, stockpile","['grocery list', 'batch cooking', 'inventory count', 'stockpile']"
+rage,"word: rage
+properties: shouting, fists, broken glass, slammed door","['shouting', 'fists', 'broken glass', 'slammed door']"
+realization,"word: realization
+properties: breakthrough, truth, epiphany, clarity","['breakthrough', 'truth', 'epiphany', 'clarity']"
+reassurance,"word: reassurance
+properties: calm, trust, steadiness, whispered promise","['calm', 'trust', 'steadiness', 'whispered promise']"
+recommendation,"word: recommendation
+properties: career path, client trust, academic advisor, job interview","['career path', 'client trust', 'academic advisor', 'job interview']"
+recovery,"word: recovery
+properties: gym, medication, rest, healing","['gym', 'medication', 'rest', 'healing']"
+regard,"word: regard
+properties: respect, overlook, esteem, critique","['respect', 'overlook', 'esteem', 'critique']"
+regret,"word: regret
+properties: missed call, broken promise, torn photo, rainy window","['missed call', 'broken promise', 'torn photo', 'rainy window']"
+relief,"word: relief
+properties: sigh, open door, warm breeze, quiet moment","['sigh', 'open door', 'warm breeze', 'quiet moment']"
+remorse,"word: remorse
+properties: broken vow, silent apology, trembling hands, whispered regret","['broken vow', 'silent apology', 'trembling hands', 'whispered regret']"
+requirement,"word: requirement
+properties: contract, deadline, compliance, necessity","['contract', 'deadline', 'compliance', 'necessity']"
+resemblance,"word: resemblance
+properties: mirror, twin, shadow, echo","['mirror', 'twin', 'shadow', 'echo']"
+resistance,"word: resistance
+properties: protest, shield, rebellion, circuit","['protest', 'shield', 'rebellion', 'circuit']"
+resolution,"word: resolution
+properties: calendar, gym, quiet room, new year","['calendar', 'gym', 'quiet room', 'new year']"
+respect,"word: respect
+properties: quiet listening, kneeling before elders, standing tall in court, bowing at a shrine","['quiet listening', 'kneeling before elders', 'standing tall in court', 'bowing at a shrine']"
+responsibility,"word: responsibility
+properties: chores, accountability, trust, deadlines","['chores', 'accountability', 'trust', 'deadlines']"
+retaliation,"word: retaliation
+properties: revenge, justice, betrayal, storm","['revenge', 'justice', 'betrayal', 'storm']"
+revenge,"word: revenge
+properties: blood oath, silent vow, shattered trust, cold calculation","['blood oath', 'silent vow', 'shattered trust', 'cold calculation']"
+revolution,"word: revolution
+properties: uprising, reimagining, chaos, new laws","['uprising', 'reimagining', 'chaos', 'new laws']"
+risk,"word: risk
+properties: gamble, failure, courage, chance","['gamble', 'failure', 'courage', 'chance']"
+ritual,"word: ritual
+properties: ceremony, repetition, devotion, tradition","['ceremony', 'repetition', 'devotion', 'tradition']"
+romantic,"word: romantic
+properties: candlelight, shared silence, handwritten note, rainy window","['candlelight', 'shared silence', 'handwritten note', 'rainy window']"
+safety,"word: safety
+properties: shield, calm, secure, quiet","['shield', 'calm', 'secure', 'quiet']"
+satisfaction,"word: satisfaction
+properties: quiet smile, finished project, warm tea, open door","['quiet smile', 'finished project', 'warm tea', 'open door']"
+scheme,"word: scheme
+properties: plot, betrayal, cunning, stealth","['plot', 'betrayal', 'cunning', 'stealth']"
+self-dependence,"word: self-dependence
+properties: solo camping, repairing broken bike, cooking meals alone, navigating unfamiliar cities","['solo camping', 'repairing broken bike', 'cooking meals alone', 'navigating unfamiliar cities']"
+sensation,"word: sensation
+properties: earthquake, electric shock, movie premiere, spicy food","['earthquake', 'electric shock', 'movie premiere', 'spicy food']"
+sensitivity,"word: sensitivity
+properties: trembling hands, quiet tears, whispered words, fragile trust","['trembling hands', 'quiet tears', 'whispered words', 'fragile trust']"
+shame,"word: shame
+properties: silence, trembling, hiding, guilt","['silence', 'trembling', 'hiding', 'guilt']"
+shyness,"word: shyness
+properties: quiet corner, hesitant smile, avoiding eye contact, fidgeting hands","['quiet corner', 'hesitant smile', 'avoiding eye contact', 'fidgeting hands']"
+skill,"word: skill
+properties: craft, victory, precision, mastery","['craft', 'victory', 'precision', 'mastery']"
+slapstick,"word: slapstick
+properties: clown, pratfall, exaggerated, chaos","['clown', 'pratfall', 'exaggerated', 'chaos']"
+solitude,"word: solitude
+properties: quiet library, lone mountain peak, moonlit garden, old bookshelf","['quiet library', 'lone mountain peak', 'moonlit garden', 'old bookshelf']"
+stimulus,"word: stimulus
+properties: reflex, dopamine, alarm, trigger","['reflex', 'dopamine', 'alarm', 'trigger']"
+stress,"word: stress
+properties: deadlines, silent scream, caffeine crash, overthinking","['deadlines', 'silent scream', 'caffeine crash', 'overthinking']"
+success,"word: success
+properties: celebration, achievement, confidence, growth","['celebration', 'achievement', 'confidence', 'growth']"
+suffering,"word: suffering
+properties: silent tears, crowded hospital, whispered prayers, broken promises","['silent tears', 'crowded hospital', 'whispered prayers', 'broken promises']"
+support,"word: support
+properties: shelter, rebellion, bridge, climb","['shelter', 'rebellion', 'bridge', 'climb']"
+surprise,"word: surprise
+properties: unexpected gift, sudden blackout, festive party, startled laugh","['unexpected gift', 'sudden blackout', 'festive party', 'startled laugh']"
+talent,"word: talent
+properties: music, dance, storytelling, craftsmanship","['music', 'dance', 'storytelling', 'craftsmanship']"
+task,"word: task
+properties: deadline, project, struggle, completion","['deadline', 'project', 'struggle', 'completion']"
+terrorism,"word: terrorism
+properties: fear, silence, destruction, loss","['fear', 'silence', 'destruction', 'loss']"
+theory,"word: theory
+properties: physics, religion, evolution, art","['physics', 'religion', 'evolution', 'art']"
+thirst,"word: thirst
+properties: dry lips, desert hike, water bottle, sweating under heat","['dry lips', 'desert hike', 'water bottle', 'sweating under heat']"
+thought,"word: thought
+properties: puzzle, silence, whisper, mirror","['puzzle', 'silence', 'whisper', 'mirror']"
+threat,"word: threat
+properties: danger, alarm, evasion, confrontation","['danger', 'alarm', 'evasion', 'confrontation']"
+tradition,"word: tradition
+properties: ancestral recipes, ceremonial dance, family heirlooms, seasonal festivals","['ancestral recipes', 'ceremonial dance', 'family heirlooms', 'seasonal festivals']"
+trend,"word: trend
+properties: fashion, technology, culture, behavior","['fashion', 'technology', 'culture', 'behavior']"
+trust,"word: trust
+properties: loyalty, silence, vulnerability, reliability","['loyalty', 'silence', 'vulnerability', 'reliability']"
+value,"word: value
+properties: sacrifice, truth, trust, legacy","['sacrifice', 'truth', 'trust', 'legacy']"
+vanity,"word: vanity
+properties: mirror, perfume, selfie, pedestal","['mirror', 'perfume', 'selfie', 'pedestal']"
+victory,"word: victory
+properties: crowd cheer, trophy stand, rival bow, medal glow","['crowd cheer', 'trophy stand', 'rival bow', 'medal glow']"
+view,"word: view
+properties: horizon, lens, gaze, map","['horizon', 'lens', 'gaze', 'map']"
+violation,"word: violation
+properties: trespass, betrayal, broken rule, silent scream","['trespass', 'betrayal', 'broken rule', 'silent scream']"
+violence,"word: violence
+properties: gunfire, broken glass, fleeing crowds, shattered windows","['gunfire', 'broken glass', 'fleeing crowds', 'shattered windows']"
+war,"word: war
+properties: gunfire, refugee, treaty, desert","['gunfire', 'refugee', 'treaty', 'desert']"
+warning,"word: warning
+properties: smoke, alarm, danger, freeze","['smoke', 'alarm', 'danger', 'freeze']"
+weakness,"word: weakness
+properties: fatigue, doubt, vulnerability, collapse","['fatigue', 'doubt', 'vulnerability', 'collapse']"
+wealth,"word: wealth
+properties: inheritance, luxury, power, security","['inheritance', 'luxury', 'power', 'security']"
+welfare,"word: welfare
+properties: soup kitchen, housing aid, job training, healthcare access","['soup kitchen', 'housing aid', 'job training', 'healthcare access']"
+will,"word: will
+properties: decision, destiny, resolve, vow","['decision', 'destiny', 'resolve', 'vow']"
+willingness,"word: willingness
+properties: surrender, choice, readiness, surrender","['surrender', 'choice', 'readiness', 'surrender']"
+wish,"word: wish
+properties: magic, hope, silence, stars","['magic', 'hope', 'silence', 'stars']"
+wit,"word: wit
+properties: clever reply, sarcastic smile, quick thinking, humorous twist","['clever reply', 'sarcastic smile', 'quick thinking', 'humorous twist']"
+wonder,"word: wonder
+properties: mystery, discovery, awe, imagination","['mystery', 'discovery', 'awe', 'imagination']"
+work,"word: work
+properties: deadline, coffee, office, progress","['deadline', 'coffee', 'office', 'progress']"
+worry,"word: worry
+properties: missed deadline, silent phone call, trembling hands, sleepless night","['missed deadline', 'silent phone call', 'trembling hands', 'sleepless night']"
+stability,"word: stability
+properties: anchor, foundation, calm, trust","['anchor', 'foundation', 'calm', 'trust']"
+selection,"word: selection
+properties: audition, ballot, chance, jury","['audition', 'ballot', 'chance', 'jury']"
