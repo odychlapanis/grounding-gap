@@ -1,0 +1,11 @@
+{
+  "variant":              "resid_post",
+  "model_tag":            "12b",
+  "model_name":           "google/gemma-3-12b-it",
+  "sae_release":          "gemma-scope-2-12b-it-res",
+  "sae_width":            "16k",
+  "sae_l0":               "medium",
+  "hook_point_template":  "blocks.{}.hook_resid_post",
+  "layers_to_test":       [12, 24, 31, 41],
+  "n_devices":            2
+}

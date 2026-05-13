@@ -1,0 +1,23 @@
+# GPU dependencies for the mechanistic analysis (SAE feature extraction +
+# per-dimension Pearson correlation against Troche ratings). Install into a
+# CUDA-capable environment, separate from the openrouter-only env at the
+# supplementary root.
+
+# Core
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+tqdm>=4.66
+
+# GPU stack (a recent torch with CUDA wheels matched to your driver is
+# required; the version range below covers what was used to produce the
+# paper artefacts).
+torch>=2.2
+transformers>=4.45
+accelerate>=0.30
+
+# SAELens and TransformerLens are imported via PYTHONPATH from the cloned
+# `libs/SAELens` and `libs/TransformerLens` repositories pinned in
+# README.md. They are NOT pip-installed: editable installs collide with the
+# transitive pin set above on some CUDA wheels. See README "GPU setup"
+# for the exact `git clone --branch <commit>` invocations.
