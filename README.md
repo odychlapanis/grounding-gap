@@ -1,8 +1,8 @@
-# Supplementary materials
+# The Grounding Gap: How LLMs Anchor the Meaning of Abstract Concepts Differently from Humans
 
-Code, data, and sample runs accompanying the paper
+Code, data, and sample runs accompanying the paper.
 
-> **The Grounding Gap: How LLMs Anchor the Meaning of Abstract Concepts Differently from Humans**
+[![Paper](https://img.shields.io/badge/Paper-arXiv:2605.08837-B31B1B.svg)](https://arxiv.org/abs/2605.08837)
 
 Directories:
 | Directory | What it reproduces |
